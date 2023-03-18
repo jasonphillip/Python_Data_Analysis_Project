@@ -1,0 +1,1022 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised,total_employees,month,year,month_year,quarter,Latitude,Longitude
+Amazon,Seattle,Retail,8000.0,0.02,2023-01-04,IPO,United States,108.0,400000.0,1,2023,January-2023,2023Q1,47.6062095,-122.3320708
+Salesforce,SF Bay Area,Sales,8000.0,0.1,2023-01-04,IPO,United States,65.0,80000.0,1,2023,January-2023,2023Q1,37.8271784,-122.2913078
+Vimeo,New York City,Consumer,,0.11,2023-01-04,IPO,United States,450.0,,1,2023,January-2023,2023Q1,40.7127753,-74.0059728
+Qualcomm,San Diego,Hardware,153.0,,2022-12-22,IPO,United States,,,12,2022,December-2022,2022Q4,32.715738,-117.1610838
+TuSimple,San Diego,Transportation,350.0,0.25,2022-12-21,IPO,United States,648.0,1400.0,12,2022,December-2022,2022Q4,32.715738,-117.1610838
+Modern Treasury,SF Bay Area,Finance,,0.18,2022-12-16,Series C,United States,183.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+SonderMind,Denver,Healthcare,,0.15,2022-12-16,Series C,United States,183.0,,12,2022,December-2022,2022Q4,39.7392358,-104.990251
+BigCommerce,Austin,Retail,180.0,0.13,2022-12-15,IPO,United States,224.0,1384.6153846153845,12,2022,December-2022,2022Q4,30.267153,-97.7430608
+Freshworks,SF Bay Area,Support,90.0,0.02,2022-12-15,IPO,United States,484.0,4500.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Workmotion,Berlin,HR,60.0,0.2,2022-12-15,Series B,United States,76.0,300.0,12,2022,December-2022,2022Q4,52.52000659999999,13.404954
+Apollo,SF Bay Area,Product,,0.15,2022-12-15,Series D,United States,183.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Quanergy Systems,SF Bay Area,Transportation,72.0,,2022-12-14,IPO,United States,175.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Headspace,Los Angeles,Healthcare,50.0,0.04,2022-12-14,Unknown,United States,215.0,1250.0,12,2022,December-2022,2022Q4,34.0522342,-118.2436849
+ChowNow,Los Angeles,Food,40.0,0.1,2022-12-14,Series C,United States,64.0,400.0,12,2022,December-2022,2022Q4,34.0522342,-118.2436849
+Thumbtack,SF Bay Area,Consumer,160.0,0.14,2022-12-13,Series I,United States,698.0,1142.8571428571427,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Edgio,Phoenix,Infrastructure,95.0,0.1,2022-12-13,IPO,United States,462.0,950.0,12,2022,December-2022,2022Q4,33.4483771,-112.0740373
+Komodo Health,SF Bay Area,Healthcare,78.0,0.09,2022-12-13,Series E,United States,514.0,866.6666666666667,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Viant,Los Angeles,Marketing,46.0,0.13,2022-12-13,IPO,United States,,353.8461538461538,12,2022,December-2022,2022Q4,34.0522342,-118.2436849
+Pluralsight,Salt Lake City,Education,400.0,0.2,2022-12-12,Acquired,United States,192.0,2000.0,12,2022,December-2022,2022Q4,40.7607793,-111.8910474
+Freshly,Phoenix,Food,329.0,,2022-12-12,Acquired,United States,107.0,,12,2022,December-2022,2022Q4,33.4483771,-112.0740373
+Balto,St. Louis,Sales,35.0,,2022-12-12,Series B,United States,51.0,,12,2022,December-2022,2022Q4,38.6270025,-90.19940419999999
+Outschool,SF Bay Area,Education,43.0,0.25,2022-12-10,Series D,United States,240.0,172.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+C2FO,Kansas City,Finance,20.0,0.02,2022-12-09,Series H,United States,537.0,1000.0,12,2022,December-2022,2022Q4,39.0997265,-94.5785667
+ZenLedger,Seattle,Crypto,,0.1,2022-12-09,Series B,United States,25.0,,12,2022,December-2022,2022Q4,47.6062095,-122.3320708
+Airtable,SF Bay Area,Product,254.0,0.2,2022-12-08,Series F,United States,1400.0,1270.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+BlackLine,Los Angeles,Finance,95.0,0.05,2022-12-08,Private Equity,United States,220.0,1900.0,12,2022,December-2022,2022Q4,34.0522342,-118.2436849
+TechTarget,Boston,Marketing,60.0,0.05,2022-12-08,IPO,United States,115.0,1200.0,12,2022,December-2022,2022Q4,42.3600825,-71.0588801
+Inscripta,Boulder,Healthcare,43.0,,2022-12-08,Series E,United States,459.0,,12,2022,December-2022,2022Q4,40.0149856,-105.2705456
+CyCognito,SF Bay Area,Security,30.0,0.15,2022-12-08,Series C,United States,153.0,200.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Armis,SF Bay Area,Security,25.0,0.04,2022-12-08,Private Equity,United States,537.0,625.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Bakkt,Atlanta,Crypto,,0.15,2022-12-08,IPO,United States,932.0,,12,2022,December-2022,2022Q4,33.748752,-84.38768449999999
+Blue Apron,New York City,Food,,0.1,2022-12-08,IPO,United States,352.0,,12,2022,December-2022,2022Q4,40.7127753,-74.0059728
+Nerdy,St. Louis,Education,,0.17,2022-12-08,IPO,United States,150.0,,12,2022,December-2022,2022Q4,38.6270025,-90.19940419999999
+Vanta,SF Bay Area,Security,,0.14,2022-12-08,Series B,United States,203.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Plaid,SF Bay Area,Finance,260.0,0.2,2022-12-07,Series D,United States,734.0,1300.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Motive,SF Bay Area,Transportation,237.0,0.06,2022-12-07,Series F,United States,567.0,3950.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Relativity,Chicago,Legal,150.0,0.1,2022-12-07,Private Equity,United States,125.0,1500.0,12,2022,December-2022,2022Q4,41.8781136,-87.6297982
+Voi,Stockholm,Transportation,130.0,0.13,2022-12-07,Series D,United States,515.0,1000.0,12,2022,December-2022,2022Q4,59.32932349999999,18.0685808
+Integral Ad Science,New York City,Marketing,120.0,0.13,2022-12-07,Acquired,United States,116.0,923.0769230769231,12,2022,December-2022,2022Q4,40.7127753,-74.0059728
+Houzz,SF Bay Area,Consumer,95.0,0.08,2022-12-07,Series E,United States,613.0,1187.5,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Grover,Berlin,Retail,40.0,0.1,2022-12-07,Unknown,United States,2300.0,400.0,12,2022,December-2022,2022Q4,52.52000659999999,13.404954
+Lev,New York City,Real Estate,30.0,0.3,2022-12-07,Series B,United States,114.0,100.0,12,2022,December-2022,2022Q4,40.7127753,-74.0059728
+Lithic,New York City,Finance,27.0,0.18,2022-12-07,Series C,United States,115.0,150.0,12,2022,December-2022,2022Q4,40.7127753,-74.0059728
+CircleCI,SF Bay Area,Product,,0.17,2022-12-07,Series F,United States,315.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Doma,SF Bay Area,Finance,515.0,0.4,2022-12-06,IPO,United States,679.0,1287.5,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Intel,SF Bay Area,Hardware,201.0,,2022-12-06,IPO,United States,12.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+BuzzFeed,New York City,Media,180.0,0.12,2022-12-06,IPO,United States,696.0,1500.0,12,2022,December-2022,2022Q4,40.7127753,-74.0059728
+Weedmaps,Los Angeles,Other,175.0,0.25,2022-12-06,Acquired,United States,,700.0,12,2022,December-2022,2022Q4,34.0522342,-118.2436849
+Adobe,SF Bay Area,Marketing,100.0,,2022-12-06,IPO,United States,2.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Chipper Cash,SF Bay Area,Finance,50.0,0.125,2022-12-06,Series C,United States,302.0,400.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Stash,New York City,Finance,32.0,0.08,2022-12-06,Unknown,United States,480.0,400.0,12,2022,December-2022,2022Q4,40.7127753,-74.0059728
+Nextiva,Phoenix,Other,,0.17,2022-12-06,Private Equity,United States,200.0,,12,2022,December-2022,2022Q4,33.4483771,-112.0740373
+OneStudyTeam,Boston,Healthcare,,0.25,2022-12-06,Series D,United States,479.0,,12,2022,December-2022,2022Q4,42.3600825,-71.0588801
+Zuora,SF Bay Area,Finance,,0.11,2022-12-06,IPO,United States,647.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Aqua Security,Boston,Security,65.0,0.1,2022-12-05,Series E,United States,265.0,650.0,12,2022,December-2022,2022Q4,42.3600825,-71.0588801
+Polly,Burlington,Finance,47.0,0.15,2022-12-02,Series C,United States,184.0,313.33333333333337,12,2022,December-2022,2022Q4,,
+Lora DiCarlo,Bend,Consumer,,1.0,2022-12-02,Unknown,United States,9.0,,12,2022,December-2022,2022Q4,44.0581728,-121.3153096
+Bizzabo,New York City,Marketing,100.0,0.37,2022-12-01,Series E,United States,194.0,270.27027027027026,12,2022,December-2022,2022Q4,40.7127753,-74.0059728
+BloomTech,SF Bay Area,Education,88.0,0.5,2022-12-01,Unknown,United States,,176.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Netlify,SF Bay Area,Product,48.0,0.16,2022-12-01,Series D,United States,212.0,300.0,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Springbig,Miami,Sales,37.0,0.23,2022-12-01,IPO,United States,32.0,160.86956521739128,12,2022,December-2022,2022Q4,25.7616798,-80.1917902
+Podium,Lehi,Support,,0.12,2022-12-01,Series D,United States,419.0,,12,2022,December-2022,2022Q4,40.3916172,-111.8507662
+SQZ Biotech,Boston,Healthcare,,0.6,2022-12-01,IPO,United States,229.0,,12,2022,December-2022,2022Q4,42.3600825,-71.0588801
+Strava,SF Bay Area,Fitness,,0.14,2022-12-01,Series F,United States,151.0,,12,2022,December-2022,2022Q4,37.8271784,-122.2913078
+Synlogic,Boston,Healthcare,,0.25,2022-12-01,IPO,United States,321.0,,12,2022,December-2022,2022Q4,42.3600825,-71.0588801
+DoorDash,SF Bay Area,Food,1250.0,0.06,2022-11-30,IPO,United States,2500.0,20833.333333333336,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Kraken,SF Bay Area,Crypto,1100.0,0.3,2022-11-30,Unknown,United States,134.0,3666.666666666667,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Happy Money,Los Angeles,Finance,158.0,0.34,2022-11-30,Series D,United States,191.0,464.70588235294116,11,2022,November-2022,2022Q4,34.0522342,-118.2436849
+Wonder,New York City,Food,130.0,0.07,2022-11-30,Series B,United States,850.0,1857.1428571428569,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Grin,Sacramento,Marketing,60.0,0.13,2022-11-30,Series B,United States,145.0,461.53846153846155,11,2022,November-2022,2022Q4,38.5815719,-121.4943996
+Elastic,SF Bay Area,Data,,0.13,2022-11-30,IPO,United States,162.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Bitfront,SF Bay Area,Crypto,,1.0,2022-11-29,Unknown,United States,,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Codexis,SF Bay Area,Healthcare,,0.18,2022-11-29,IPO,United States,162.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Firework,SF Bay Area,Retail,,0.1,2022-11-29,Series B,United States,269.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Candy Digital,New York City,Crypto,33.0,0.33,2022-11-28,Series A,United States,100.0,100.0,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+BlockFi,New York City,Crypto,1250.0,1.0,2022-11-28,Series E,United States,1000.0,1250.0,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+NCX,SF Bay Area,Energy,,0.4,2022-11-28,Series B,United States,78.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Assure,Salt Lake City,Finance,,1.0,2022-11-23,Seed,United States,2.0,,11,2022,November-2022,2022Q4,40.7607793,-111.8910474
+Kitopi,Dubai,Food,93.0,0.1,2022-11-21,Series C,United States,804.0,930.0,11,2022,November-2022,2022Q4,25.2048493,55.2707828
+Devo,Boston,Security,,0.15,2022-11-21,Series F,United States,481.0,,11,2022,November-2022,2022Q4,42.3600825,-71.0588801
+GloriFi,Dallas,Finance,,1.0,2022-11-21,Unknown,United States,,,11,2022,November-2022,2022Q4,32.7766642,-96.79698789999999
+Carvana,Phoenix,Transportation,1500.0,0.08,2022-11-18,IPO,United States,1600.0,18750.0,11,2022,November-2022,2022Q4,33.4483771,-112.0740373
+Nuro,SF Bay Area,Transportation,300.0,0.2,2022-11-18,Series D,United States,2100.0,1500.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Synthego,SF Bay Area,Healthcare,105.0,0.2,2022-11-18,Series E,United States,459.0,525.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Capitolis,New York City,Finance,37.0,0.25,2022-11-18,Series D,United States,281.0,148.0,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+StoryBlocks,Washington D.C.,Media,,0.25,2022-11-18,Acquired,United States,18.0,,11,2022,November-2022,2022Q4,38.9071923,-77.0368707
+Roku,SF Bay Area,Media,200.0,0.07,2022-11-17,IPO,United States,208.0,2857.142857142857,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Orchard,New York City,Real Estate,180.0,,2022-11-17,Series D,United States,472.0,,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Homepoint,Phoenix,Real Estate,113.0,,2022-11-17,IPO,United States,,,11,2022,November-2022,2022Q4,33.4483771,-112.0740373
+Chili Piper,New York City,Sales,58.0,,2022-11-17,Series B,United States,54.0,,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Capitolis,New York City,Finance,37.0,0.25,2022-11-17,Series D,United States,281.0,148.0,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Kandji,San Diego,Other,,0.17,2022-11-17,Series C,United States,188.0,,11,2022,November-2022,2022Q4,32.715738,-117.1610838
+Morning Brew,New York City,Media,,0.14,2022-11-17,Acquired,United States,,,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Amazon,Seattle,Retail,10000.0,0.03,2022-11-16,IPO,United States,108.0,333333.3333333334,11,2022,November-2022,2022Q4,47.6062095,-122.3320708
+Cisco,SF Bay Area,Infrastructure,4100.0,0.05,2022-11-16,IPO,United States,2.0,82000.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+SimilarWeb,New York City,Other,120.0,0.1,2022-11-16,IPO,United States,235.0,1200.0,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Salsify,Boston,Retail,90.0,0.11,2022-11-16,Series F,United States,452.0,818.1818181818181,11,2022,November-2022,2022Q4,42.3600825,-71.0588801
+Lokalise,Dover,Other,76.0,0.23,2022-11-16,Series B,United States,56.0,330.4347826086956,11,2022,November-2022,2022Q4,51.1278758,1.3134027
+Yotpo,New York City,Marketing,70.0,0.09,2022-11-16,Unknown,United States,436.0,777.7777777777778,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Pear Therapeutics,Boston,Healthcare,59.0,0.22,2022-11-16,IPO,United States,409.0,268.1818181818182,11,2022,November-2022,2022Q4,42.3600825,-71.0588801
+Homeward,Austin,Real Estate,,0.25,2022-11-16,Unknown,United States,501.0,,11,2022,November-2022,2022Q4,30.267153,-97.7430608
+Kite,SF Bay Area,Product,,1.0,2022-11-16,Series A,United States,21.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+UiPath,New York City,Data,241.0,0.06,2022-11-15,IPO,United States,2000.0,4016.666666666667,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Asana,SF Bay Area,Other,180.0,0.09,2022-11-15,IPO,United States,453.0,2000.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+OwnBackup,New York City,Security,170.0,0.17,2022-11-15,Series E,United States,507.0,999.9999999999999,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Productboard,SF Bay Area,Product,100.0,0.2,2022-11-15,Series D,United States,,500.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Protocol,SF Bay Area,Media,60.0,1.0,2022-11-15,Acquired,United States,,60.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+The Zebra,Austin,Finance,50.0,,2022-11-15,Series D,United States,256.0,,11,2022,November-2022,2022Q4,30.267153,-97.7430608
+CaptivateIQ,SF Bay Area,Sales,31.0,0.1,2022-11-15,Series C,United States,164.0,310.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Nirvana Money,Miami,Finance,,1.0,2022-11-15,Unknown,United States,,,11,2022,November-2022,2022Q4,25.7616798,-80.1917902
+OfferUp,Seattle,Retail,,0.19,2022-11-15,Unknown,United States,381.0,,11,2022,November-2022,2022Q4,47.6062095,-122.3320708
+Outside,Boulder,Media,69.6,0.12,2022-11-15,Series B,United States,174.0,580.0,11,2022,November-2022,2022Q4,40.0149856,-105.2705456
+Rubicon Technologies,Lexington,Other,,0.11,2022-11-15,IPO,United States,382.0,,11,2022,November-2022,2022Q4,38.0405837,-84.5037164
+Illumina,San Diego,Healthcare,500.0,0.05,2022-11-14,IPO,United States,28.0,10000.0,11,2022,November-2022,2022Q4,32.715738,-117.1610838
+Sema4,Stamford,Healthcare,500.0,0.26,2022-11-14,IPO,United States,791.0,1923.076923076923,11,2022,November-2022,2022Q4,41.0534302,-73.5387341
+iFit,Logan,Fitness,300.0,0.2,2022-11-14,Private Equity,United States,200.0,1500.0,11,2022,November-2022,2022Q4,,
+Ribbon,New York City,Real Estate,170.0,0.85,2022-11-14,Series C,United States,405.0,200.0,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Intercom,SF Bay Area,Support,124.0,0.13,2022-11-14,Series D,United States,240.0,953.8461538461538,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Science 37,Los Angeles,Healthcare,90.0,,2022-11-14,IPO,United States,347.0,,11,2022,November-2022,2022Q4,34.0522342,-118.2436849
+Science 37 ,Los Angeles,Healthcare,90.0,,2022-11-14,IPO,United States,347.0,,11,2022,November-2022,2022Q4,34.0522342,-118.2436849
+Pear Therapeutics,Boston,Healthcare,59.0,0.22,2022-11-14,IPO,United States,409.0,268.1818181818182,11,2022,November-2022,2022Q4,42.3600825,-71.0588801
+Cardlytics,Atlanta,Marketing,51.0,,2022-11-14,IPO,United States,212.0,,11,2022,November-2022,2022Q4,33.748752,-84.38768449999999
+Cloudinary,SF Bay Area,Media,40.0,0.08,2022-11-14,Unknown,United States,100.0,500.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Veev,SF Bay Area,Real Estate,100.0,0.3,2022-11-11,Series D,United States,597.0,333.33333333333337,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Forto,Berlin,Logistics,60.0,0.08,2022-11-11,Series D,United States,593.0,750.0,11,2022,November-2022,2022Q4,52.52000659999999,13.404954
+Offerpad,Phoenix,Real Estate,,0.07,2022-11-11,IPO,United States,355.0,,11,2022,November-2022,2022Q4,33.4483771,-112.0740373
+Juul,SF Bay Area,Consumer,400.0,0.3,2022-11-10,Unknown,United States,1500.0,1333.3333333333335,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Blend,SF Bay Area,Finance,100.0,0.06,2022-11-10,IPO,United States,665.0,1666.6666666666667,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+InfluxData,SF Bay Area,Product,65.0,0.27,2022-11-10,Series D,United States,119.0,240.74074074074073,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Coinbase,SF Bay Area,Crypto,60.0,0.009818181818181818,2022-11-10,IPO,United States,549.0,6111.111111111111,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+SoundHound,SF Bay Area,Other,45.0,0.1,2022-11-10,IPO,United States,326.0,450.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Wistia,Boston,Marketing,40.0,,2022-11-10,Unknown,United States,18.0,,11,2022,November-2022,2022Q4,42.3600825,-71.0588801
+Ocavu,Lehi,Crypto,20.0,0.48,2022-11-10,Series A,United States,11.0,41.66666666666667,11,2022,November-2022,2022Q4,40.3916172,-111.8507662
+Avast,Phoenix,Security,,0.25,2022-11-10,Unknown,United States,,,11,2022,November-2022,2022Q4,33.4483771,-112.0740373
+SendCloud,Eindhoven,Logistics,,0.1,2022-11-10,Series C,United States,200.0,,11,2022,November-2022,2022Q4,51.42314229999999,5.462289699999999
+Wavely,SF Bay Area,HR,,1.0,2022-11-10,Unknown,United States,,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Meta,SF Bay Area,Consumer,11000.0,0.13,2022-11-09,IPO,United States,26000.0,84615.38461538461,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Redfin,Seattle,Real Estate,862.0,0.13,2022-11-09,IPO,United States,320.0,6630.7692307692305,11,2022,November-2022,2022Q4,47.6062095,-122.3320708
+Flyhomes,Seattle,Real Estate,300.0,0.4,2022-11-09,Series C,United States,310.0,750.0,11,2022,November-2022,2022Q4,47.6062095,-122.3320708
+AvantStay,Los Angeles,Travel,144.0,0.22,2022-11-09,Private Equity,United States,686.0,654.5454545454545,11,2022,November-2022,2022Q4,34.0522342,-118.2436849
+Root Insurance,Columbus,Finance,137.0,0.2,2022-11-09,IPO,United States,527.0,685.0,11,2022,November-2022,2022Q4,39.9611755,-82.99879419999999
+Liftoff,SF Bay Area,Marketing,130.0,0.15,2022-11-09,Acquired,United States,6.0,866.6666666666667,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Cameo,Chicago,Consumer,80.0,0.22988505747126436,2022-11-09,Unknown,United States,165.0,348.0,11,2022,November-2022,2022Q4,41.8781136,-87.6297982
+Kabam,SF Bay Area,Consumer,35.0,0.07,2022-11-09,Acquired,United States,244.0,499.99999999999994,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Faze Medicines,Boston,Healthcare,,1.0,2022-11-09,Series B,United States,81.0,,11,2022,November-2022,2022Q4,42.3600825,-71.0588801
+RingCentral,SF Bay Area,Other,,0.1,2022-11-09,IPO,United States,44.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Repertoire Immune Medicines,Boston,Healthcare,65.0,0.5,2022-11-08,Series B,United States,257.0,130.0,11,2022,November-2022,2022Q4,42.3600825,-71.0588801
+Astra,SF Bay Area,Aerospace,25.6,0.16,2022-11-08,IPO,United States,300.0,160.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+NanoString,Seattle,Healthcare,,0.1,2022-11-08,IPO,United States,731.0,,11,2022,November-2022,2022Q4,47.6062095,-122.3320708
+SADA,Los Angeles,Other,,0.11,2022-11-08,Acquired,United States,,,11,2022,November-2022,2022Q4,34.0522342,-118.2436849
+Salesforce,SF Bay Area,Sales,1000.0,0.01,2022-11-07,IPO,United States,65.0,100000.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Zendesk,SF Bay Area,Support,350.0,0.05,2022-11-07,Acquired,United States,85.0,7000.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Code42,Minneapolis,Security,75.0,0.15,2022-11-07,Unknown,United States,137.0,500.0,11,2022,November-2022,2022Q4,44.977753,-93.2650108
+Domino Data Lab,SF Bay Area,Data,,0.25,2022-11-07,Series F,United States,223.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Varonis,New York City,Security,110.0,0.05,2022-11-06,IPO,United States,30.0,2200.0,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Twitter,SF Bay Area,Consumer,3700.0,0.5,2022-11-04,IPO,United States,12900.0,7400.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Exodus,Nebraska City,Crypto,59.0,0.22,2022-11-04,Unknown,United States,60.0,268.1818181818182,11,2022,November-2022,2022Q4,40.6765745,-95.8593616
+Benitago Group,New York City,Retail,,0.14,2022-11-04,Series A,United States,380.0,,11,2022,November-2022,2022Q4,40.7127753,-74.0059728
+Mythical Games,Los Angeles,Crypto,,0.1,2022-11-04,Series C,United States,260.0,,11,2022,November-2022,2022Q4,34.0522342,-118.2436849
+Stripe,SF Bay Area,Finance,1000.0,0.14,2022-11-03,Series H,United States,2300.0,7142.857142857142,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Lyft,SF Bay Area,Transportation,700.0,0.13,2022-11-03,IPO,United States,4900.0,5384.615384615385,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Pleo,Copenhagen,Finance,150.0,0.15,2022-11-03,Series C,United States,428.0,1000.0,11,2022,November-2022,2022Q4,55.6760968,12.5683371
+Shippo,SF Bay Area,Logistics,60.0,0.2,2022-11-03,Series E,United States,154.0,300.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Affirm,SF Bay Area,Finance,,0.01,2022-11-03,IPO,United States,1500.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+LiveRamp,SF Bay Area,Marketing,,0.1,2022-11-03,IPO,United States,16.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Rubius,Boston,Healthcare,174.93333333333337,0.8200000000000001,2022-11-03,IPO,United States,445.0,213.33333333333334,11,2022,November-2022,2022Q4,42.3600825,-71.0588801
+Snapdocs,SF Bay Area,Real Estate,,0.15,2022-11-03,Series D,United States,253.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Opendoor,SF Bay Area,Real Estate,550.0,0.18,2022-11-02,IPO,United States,1900.0,3055.5555555555557,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Chime,SF Bay Area,Finance,156.0,0.12,2022-11-02,Series G,United States,2300.0,1300.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Chargebee,SF Bay Area,Finance,142.0,0.1,2022-11-02,Series H,United States,468.0,1420.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Dapper Labs,Vancouver,Crypto,134.0,0.22,2022-11-02,Series D,United States,607.0,609.0909090909091,11,2022,November-2022,2022Q4,49.2827291,-123.1207375
+Iron Ox,SF Bay Area,Food,50.0,0.5,2022-11-02,Series C,United States,103.0,100.0,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Digital Currency Gruop,Stamford,Crypto,10.0,0.13,2022-11-02,Unknown,United States,,76.92307692307692,11,2022,November-2022,2022Q4,41.0534302,-73.5387341
+Booking.com,Grand Rapids,Travel,226.0,0.012914285714285715,2022-11-01,Acquired,United States,,17500.0,11,2022,November-2022,2022Q4,42.9633599,-85.6680863
+Oracle,SF Bay Area,Other,200.0,,2022-11-01,IPO,United States,,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Upstart,SF Bay Area,Finance,140.0,0.07,2022-11-01,IPO,United States,144.0,1999.9999999999998,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Gem,SF Bay Area,Recruiting,100.0,0.33,2022-11-01,Series C,United States,148.0,303.030303030303,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Brightline,SF Bay Area,Healthcare,,0.2,2022-11-01,Series C,United States,212.0,,11,2022,November-2022,2022Q4,37.8271784,-122.2913078
+Notarize,Boston,Legal,60.0,0.13636363636363635,2022-10-31,Series D,United States,213.0,440.0,10,2022,October-2022,2022Q4,42.3600825,-71.0588801
+EquityZen,New York City,Finance,30.0,0.27,2022-10-31,Series B,United States,11.0,111.1111111111111,10,2022,October-2022,2022Q4,40.7127753,-74.0059728
+Equitybee,SF Bay Area,Finance,25.0,0.2,2022-10-31,Series B,United States,85.0,125.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Fifth Season,Pittsburgh,Food,100.0,1.0,2022-10-28,Series B,United States,35.0,100.0,10,2022,October-2022,2022Q4,40.44062479999999,-79.9958864
+Advata,Seattle,Healthcare,32.0,0.21,2022-10-28,Unknown,United States,,152.38095238095238,10,2022,October-2022,2022Q4,47.6062095,-122.3320708
+Recharge,Los Angeles,Finance,84.0,0.17,2022-10-27,Series B,United States,277.0,494.1176470588235,10,2022,October-2022,2022Q4,34.0522342,-118.2436849
+Lattice,SF Bay Area,HR,13.0,0.08125,2022-10-27,Series F,United States,328.0,160.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+MindBody,San Luis Obispo,Fitness,400.0,0.15,2022-10-26,IPO,United States,114.0,2666.666666666667,10,2022,October-2022,2022Q4,35.2827524,-120.6596156
+Zillow,Seattle,Real Estate,300.0,0.05,2022-10-26,IPO,United States,97.0,6000.0,10,2022,October-2022,2022Q4,47.6062095,-122.3320708
+Cybereason,Boston,Security,200.0,0.17,2022-10-26,Series F,United States,750.0,1176.4705882352941,10,2022,October-2022,2022Q4,42.3600825,-71.0588801
+Argo AI,Pittsburgh,Transportation,173.0,1.0,2022-10-26,Unknown,United States,3600.0,173.0,10,2022,October-2022,2022Q4,40.44062479999999,-79.9958864
+GoFundMe,SF Bay Area,Finance,94.0,0.12,2022-10-26,Series A,United States,,783.3333333333334,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Fundbox,SF Bay Area,Finance,150.0,0.42,2022-10-25,Series D,United States,553.0,357.14285714285717,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Embroker,SF Bay Area,Finance,30.0,0.12,2022-10-25,Series C,United States,142.0,250.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Callisto Media,SF Bay Area,Media,140.0,0.35,2022-10-25,Series D,United States,,400.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Cerebral,SF Bay Area,Healthcare,400.0,0.2,2022-10-24,Series C,United States,462.0,2000.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Snyk,Boston,Security,198.0,0.14,2022-10-24,Series F,United States,849.0,1414.2857142857142,10,2022,October-2022,2022Q4,42.3600825,-71.0588801
+Khoros,Austin,Sales,120.0,0.1,2022-10-21,Private Equity,United States,138.0,1200.0,10,2022,October-2022,2022Q4,30.267153,-97.7430608
+F5,Seattle,Security,100.0,0.01,2022-10-21,IPO,United States,,10000.0,10,2022,October-2022,2022Q4,47.6062095,-122.3320708
+Volta,SF Bay Area,Transportation,,0.54,2022-10-21,IPO,United States,575.0,,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Zeus Living,SF Bay Area,Real Estate,64.0,0.46,2022-10-20,Series C,United States,151.0,139.1304347826087,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Loom,SF Bay Area,Product,23.0,0.11,2022-10-20,Series C,United States,203.0,209.0909090909091,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Sales Boomerang,Baltimore,Sales,20.0,,2022-10-20,Private Equity,United States,5.0,,10,2022,October-2022,2022Q4,39.2903848,-76.6121893
+Roofstock,SF Bay Area,Real Estate,,0.2,2022-10-20,Series E,United States,365.0,,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Starry,Boston,Other,,0.5,2022-10-20,IPO,United States,260.0,,10,2022,October-2022,2022Q4,42.3600825,-71.0588801
+Gopuff,Philadelphia,Food,250.0,0.016666666666666666,2022-10-19,Series H,United States,3400.0,15000.0,10,2022,October-2022,2022Q4,39.9525839,-75.1652215
+AtoB,SF Bay Area,Finance,32.0,0.3,2022-10-19,Series B,United States,177.0,106.66666666666667,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Faire,SF Bay Area,Retail,84.0,0.07,2022-10-18,Series G,United States,1700.0,1199.9999999999998,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Leafly,Seattle,Retail,56.0,0.21,2022-10-18,IPO,United States,71.0,266.6666666666667,10,2022,October-2022,2022Q4,47.6062095,-122.3320708
+Flipboard,SF Bay Area,Media,24.0,0.21,2022-10-16,Unknown,United States,235.0,114.28571428571429,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Clear Capital,SF Bay Area,Real Estate,378.0,0.27,2022-10-14,Unknown,United States,,1400.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Beyond Meat,Los Angeles,Food,200.0,0.19,2022-10-14,IPO,United States,122.0,1052.6315789473683,10,2022,October-2022,2022Q4,34.0522342,-118.2436849
+Salesforce,SF Bay Area,Sales,90.0,0.0011535796766743648,2022-10-13,IPO,United States,65.0,78018.01801801802,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Playdots,New York City,Consumer,65.0,1.0,2022-10-13,Acquired,United States,10.0,65.0,10,2022,October-2022,2022Q4,40.7127753,-74.0059728
+6sense,SF Bay Area,Sales,150.0,0.1,2022-10-12,Series E,United States,426.0,1500.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Noom,New York City,Healthcare,500.0,0.1,2022-10-11,Series F,United States,657.0,5000.0,10,2022,October-2022,2022Q4,40.7127753,-74.0059728
+MX,Lehi,Finance,200.0,,2022-10-11,Series C,United States,450.0,,10,2022,October-2022,2022Q4,40.3916172,-111.8507662
+Brex,SF Bay Area,Finance,136.0,0.11,2022-10-11,Series D,United States,1500.0,1236.3636363636363,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Pacaso,SF Bay Area,Real Estate,100.0,0.3,2022-10-11,Series C,United States,217.0,333.33333333333337,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Udacity,SF Bay Area,Education,55.0,0.13,2022-10-11,Unknown,United States,235.0,423.07692307692304,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+HelloFresh,SF Bay Area,Food,611.0,,2022-10-10,IPO,United States,367.0,,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Momentive,SF Bay Area,Marketing,180.0,0.11,2022-10-10,IPO,United States,1100.0,1636.3636363636363,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Pavilion Data,SF Bay Area,Infrastructure,96.0,0.96,2022-10-10,Series D,United States,103.0,100.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Redesign Health,New York City,Healthcare,67.0,0.2,2022-10-10,Series C,United States,315.0,335.0,10,2022,October-2022,2022Q4,40.7127753,-74.0059728
+Nyriad,Austin,Infrastructure,,0.33,2022-10-10,Unknown,United States,58.0,,10,2022,October-2022,2022Q4,30.267153,-97.7430608
+BioMarin,SF Bay Area,Healthcare,120.0,0.04,2022-10-07,IPO,United States,585.0,3000.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Rev.com,Austin,Data,85.0,,2022-10-07,Series D,United States,30.0,,10,2022,October-2022,2022Q4,30.267153,-97.7430608
+Peloton,New York City,Fitness,500.0,0.12,2022-10-06,IPO,United States,1900.0,4166.666666666667,10,2022,October-2022,2022Q4,40.7127753,-74.0059728
+Landing,Birmingham,Real Estate,110.0,,2022-10-06,Series C,United States,347.0,,10,2022,October-2022,2022Q4,33.5185892,-86.8103567
+Turnitin,SF Bay Area,Education,51.0,0.05,2022-10-06,Acquired,United States,,1020.0,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Impossible Foods,SF Bay Area,Food,50.0,0.06,2022-10-06,Series H,United States,1900.0,833.3333333333334,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Foresight Insurance,SF Bay Area,Finance,,0.4,2022-10-06,Series B,United States,58.0,,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+Built In,Chicago,Recruiting,50.0,0.25,2022-10-05,Series C,United States,29.0,200.0,10,2022,October-2022,2022Q4,41.8781136,-87.6297982
+TwinStrand,Seattle,Healthcare,,0.5,2022-10-05,Series B,United States,73.0,,10,2022,October-2022,2022Q4,47.6062095,-122.3320708
+Homie,Salt Lake City,Real Estate,40.0,0.13,2022-10-04,Series B,United States,35.0,307.6923076923077,10,2022,October-2022,2022Q4,40.7607793,-111.8910474
+Fivetran,SF Bay Area,Data,,0.05,2022-10-04,Series D,United States,,,10,2022,October-2022,2022Q4,37.8271784,-122.2913078
+ActiveCampaign,Chicago,Marketing,,0.15,2022-10-03,Series C,United States,360.0,,10,2022,October-2022,2022Q4,41.8781136,-87.6297982
+Spin,SF Bay Area,Transportation,78.0,0.1,2022-09-30,Acquired,United States,8.0,780.0,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Pastel,SF Bay Area,Food,,1.0,2022-09-30,Unknown,United States,,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Mux,SF Bay Area,Infrastructure,40.0,0.2,2022-09-29,Series D,United States,173.0,200.0,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+DocuSign,SF Bay Area,Sales,671.0,0.09,2022-09-28,IPO,United States,536.0,7455.555555555556,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Volta,SF Bay Area,Transportation,,0.1,2022-09-28,IPO,United States,575.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Divvy Homes,SF Bay Area,Real Estate,40.0,0.12,2022-09-27,Series B,United States,180.0,333.33333333333337,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Konfio,Mexico City,Finance,180.0,,2022-09-23,Series E,United States,706.0,,9,2022,September-2022,2022Q3,19.4326077,-99.133208
+Foxtrot,Chicago,Food,26.0,0.035,2022-09-23,Series C,United States,166.0,742.8571428571428,9,2022,September-2022,2022Q3,41.8781136,-87.6297982
+Pesto,SF Bay Area,Other,,1.0,2022-09-23,Seed,United States,6.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+NYDIG,New York City,Crypto,110.0,0.33,2022-09-22,Private Equity,United States,1400.0,333.3333333333333,9,2022,September-2022,2022Q3,40.7127753,-74.0059728
+Kitty Hawk,SF Bay Area,Aerospace,100.0,1.0,2022-09-21,Unknown,United States,1.0,100.0,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Compass,New York City,Real Estate,271.0,0.07742857142857143,2022-09-20,IPO,United States,1600.0,3500.0,9,2022,September-2022,2022Q3,40.7127753,-74.0059728
+Curative,Los Angeles,Healthcare,109.0,,2022-09-20,Seed,United States,8.0,,9,2022,September-2022,2022Q3,34.0522342,-118.2436849
+Ouster,SF Bay Area,Transportation,,0.1,2022-09-20,IPO,United States,282.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Vesalius Therapeutics,Boston,Healthcare,29.0,0.43,2022-09-19,Series B,United States,75.0,67.44186046511628,9,2022,September-2022,2022Q3,42.3600825,-71.0588801
+VideoAmp,Los Angeles,Marketing,4.2,0.02,2022-09-19,Series F,United States,456.0,210.0,9,2022,September-2022,2022Q3,34.0522342,-118.2436849
+TrueLayer,London,Finance,40.0,0.1,2022-09-16,Series E,United States,271.0,400.0,9,2022,September-2022,2022Q3,51.5072178,-0.1275862
+LivePerson,New York City,Support,193.0,0.11,2022-09-15,IPO,United States,42.0,1754.5454545454545,9,2022,September-2022,2022Q3,40.7127753,-74.0059728
+WorkRamp,SF Bay Area,HR,35.0,0.2,2022-09-15,Series C,United States,67.0,175.0,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+NextRoll,SF Bay Area,Marketing,,0.07,2022-09-15,Unknown,United States,108.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Twilio,SF Bay Area,Other,800.0,0.11,2022-09-14,IPO,United States,614.0,7272.727272727273,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Netflix,SF Bay Area,Media,30.0,0.0024,2022-09-14,IPO,United States,121900.0,12500.0,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Rubius,Boston,Healthcare,160.0,0.75,2022-09-13,IPO,United States,445.0,213.33333333333334,9,2022,September-2022,2022Q3,42.3600825,-71.0588801
+Taboola,New York City,Marketing,100.0,0.06,2022-09-13,IPO,United States,445.0,1666.6666666666667,9,2022,September-2022,2022Q3,40.7127753,-74.0059728
+Patreon,SF Bay Area,Media,80.0,0.17,2022-09-13,Series F,United States,413.0,470.5882352941176,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+FullStory,Atlanta,Marketing,,0.12,2022-09-13,Unknown,United States,197.0,,9,2022,September-2022,2022Q3,33.748752,-84.38768449999999
+Mode Analytics,SF Bay Area,Data,25.0,,2022-09-12,Series D,United States,81.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Karbon,SF Bay Area,Other,,0.23,2022-09-12,Series B,United States,91.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Rent the Runway,New York City,Retail,,0.24,2022-09-12,IPO,United States,526.0,,9,2022,September-2022,2022Q3,40.7127753,-74.0059728
+Patreon,SF Bay Area,Media,5.0,0.014258064516129033,2022-09-09,Series F,United States,413.0,350.6787330316742,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+CommonBond,New York City,Finance,,1.0,2022-09-09,Series D,United States,125.0,,9,2022,September-2022,2022Q3,40.7127753,-74.0059728
+Flowhub,Denver,Retail,,0.15,2022-09-09,Unknown,United States,45.0,,9,2022,September-2022,2022Q3,39.7392358,-104.990251
+Genome Medical,SF Bay Area,Healthcare,23.0,,2022-09-08,Series C,United States,120.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+BigBear.ai,Baltimore,Data,,0.07,2022-09-08,IPO,United States,200.0,,9,2022,September-2022,2022Q3,39.2903848,-76.6121893
+Intercom,SF Bay Area,Support,49.0,0.05,2022-09-07,Series D,United States,240.0,980.0,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Pendo,Raleigh,Product,45.0,0.05,2022-09-07,Series F,United States,469.0,900.0,9,2022,September-2022,2022Q3,35.7795897,-78.6381787
+Demandbase,SF Bay Area,Sales,27.0,0.03,2022-09-07,Series H,United States,143.0,900.0,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Medly,New York City,Healthcare,,0.5,2022-09-07,Series C,United States,100.0,,9,2022,September-2022,2022Q3,40.7127753,-74.0059728
+Brave Care,Portland,Healthcare,40.0,0.33,2022-09-06,Series B,United States,42.0,121.2121212121212,9,2022,September-2022,2022Q3,45.515232,-122.6783853
+Juniper Square,SF Bay Area,Real Estate,,0.14,2022-09-06,Series C,United States,108.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Medium,SF Bay Area,Media,,0.25,2022-09-06,Unknown,United States,163.0,,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Innovaccer,SF Bay Area,Healthcare,90.0,0.08,2022-09-01,Series E,United States,379.0,1125.0,9,2022,September-2022,2022Q3,37.8271784,-122.2913078
+Snap,Los Angeles,Consumer,1280.0,0.2,2022-08-31,IPO,United States,4900.0,6400.0,8,2022,August-2022,2022Q3,34.0522342,-118.2436849
+GoodRx,Los Angeles,Healthcare,140.0,0.16,2022-08-31,IPO,United States,910.0,875.0,8,2022,August-2022,2022Q3,34.0522342,-118.2436849
+Hippo Insurance,SF Bay Area,Finance,70.0,0.1,2022-08-31,IPO,United States,1300.0,700.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Clari,SF Bay Area,Sales,45.0,,2022-08-31,Series F,United States,496.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Apartment List,SF Bay Area,Real Estate,29.0,0.1,2022-08-31,Series D,United States,169.0,290.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+The Wing,New York City,Real Estate,,1.0,2022-08-31,Series C,United States,117.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Electric,New York City,Other,81.0,,2022-08-30,Series D,United States,212.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Nate,New York City,Retail,30.0,0.2,2022-08-30,Series A,United States,47.0,150.0,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+54gene,Washington D.C.,Healthcare,95.0,0.3,2022-08-29,Series B,United States,44.0,316.6666666666667,8,2022,August-2022,2022Q3,38.9071923,-77.0368707
+Zymergen,SF Bay Area,Other,80.0,,2022-08-26,Acquired,United States,974.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Okta,SF Bay Area,Other,24.0,,2022-08-26,IPO,United States,1200.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Argyle,New York City,Finance,20.0,0.07,2022-08-26,Series B,United States,78.0,285.71428571428567,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+FreshDirect,Philadelphia,Food,40.0,,2022-08-25,Acquired,United States,280.0,,8,2022,August-2022,2022Q3,39.9525839,-75.1652215
+Impact.com,Los Angeles,Marketing,,0.1,2022-08-25,Private Equity,United States,361.0,,8,2022,August-2022,2022Q3,34.0522342,-118.2436849
+ShipBob,Chicago,Logistics,,0.07,2022-08-25,Series E,United States,330.0,,8,2022,August-2022,2022Q3,41.8781136,-87.6297982
+Reali,SF Bay Area,Real Estate,140.0,1.0,2022-08-24,Series B,United States,117.0,140.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Loop,Washington D.C.,Finance,15.0,0.2,2022-08-24,Series A,United States,24.0,75.0,8,2022,August-2022,2022Q3,38.9071923,-77.0368707
+Packable,New York City,Retail,138.0,0.2,2022-08-23,Unknown,United States,472.0,690.0,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Skedulo,SF Bay Area,HR,31.0,0.08,2022-08-23,Series C,United States,114.0,387.5,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Plato,SF Bay Area,HR,29.0,0.5,2022-08-23,Seed,United States,3.0,58.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+DataRobot,Boston,Data,260.0,0.26,2022-08-23,Series G,United States,1000.0,999.9999999999999,8,2022,August-2022,2022Q3,42.3600825,-71.0588801
+Mr. Yum,Melbourne,Food,,0.17,2022-08-22,Series A,United States,73.0,,8,2022,August-2022,2022Q3,-37.8136276,144.9630576
+Tufin,Boston,Security,55.0,0.1,2022-08-21,Acquired,United States,21.0,550.0,8,2022,August-2022,2022Q3,42.3600825,-71.0588801
+Amperity,Seattle,Marketing,13.0,0.03,2022-08-20,Series D,United States,187.0,433.33333333333337,8,2022,August-2022,2022Q3,47.6062095,-122.3320708
+Wayfair,Boston,Retail,870.0,0.05,2022-08-19,IPO,United States,1700.0,17400.0,8,2022,August-2022,2022Q3,42.3600825,-71.0588801
+Stripe,SF Bay Area,Finance,50.0,0.007000000000000001,2022-08-19,Series H,United States,2300.0,7142.857142857142,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+New Relic,SF Bay Area,Infrastructure,110.0,0.05,2022-08-18,IPO,United States,214.0,2200.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Wheel,Austin,Healthcare,35.0,0.17,2022-08-18,Series C,United States,215.0,205.88235294117646,8,2022,August-2022,2022Q3,30.267153,-97.7430608
+Thirty Madison,New York City,Healthcare,,0.1,2022-08-18,Series C,United States,209.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Malwarebytes,SF Bay Area,Security,125.0,0.14,2022-08-17,Series B,United States,80.0,892.8571428571428,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Tempo Automation,SF Bay Area,Other,54.0,,2022-08-17,Series C,United States,74.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Genesis,New York City,Crypto,52.0,0.2,2022-08-17,Series A,United States,,260.0,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Woven,Indianapolis,HR,5.0,0.15,2022-08-16,Series A,United States,11.0,33.333333333333336,8,2022,August-2022,2022Q3,39.768403,-86.158068
+Edmodo,SF Bay Area,Education,,1.0,2022-08-16,Acquired,United States,77.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Snapdocs,SF Bay Area,Real Estate,,0.1,2022-08-16,Series D,United States,253.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Sema4,Stamford,Healthcare,250.0,0.13,2022-08-15,IPO,United States,791.0,1923.076923076923,8,2022,August-2022,2022Q3,41.0534302,-73.5387341
+Blend,SF Bay Area,Finance,220.0,0.12,2022-08-15,IPO,United States,665.0,1833.3333333333335,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+ContraFect,New York City,Healthcare,16.0,0.37,2022-08-15,IPO,United States,380.0,43.24324324324324,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+ThredUp,Chicago,Retail,,0.15,2022-08-15,IPO,United States,305.0,,8,2022,August-2022,2022Q3,41.8781136,-87.6297982
+Peloton,New York City,Fitness,784.0,0.13,2022-08-12,IPO,United States,1900.0,6030.7692307692305,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Core Scientific,Austin,Crypto,,0.1,2022-08-12,IPO,United States,169.0,,8,2022,August-2022,2022Q3,30.267153,-97.7430608
+Truepill,SF Bay Area,Healthcare,175.0,0.33,2022-08-11,Series D,United States,255.0,530.3030303030303,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Calm,SF Bay Area,Healthcare,90.0,0.2,2022-08-11,Series C,United States,218.0,450.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+FourKites,Chicago,Logistics,60.0,0.08,2022-08-11,Series D,United States,201.0,750.0,8,2022,August-2022,2022Q3,41.8781136,-87.6297982
+Guidewire,SF Bay Area,Finance,,0.02,2022-08-11,IPO,United States,24.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Homeward,Austin,Real Estate,,0.2,2022-08-10,Series B,United States,160.0,,8,2022,August-2022,2022Q3,30.267153,-97.7430608
+Vedanta Biosciences,Boston,Healthcare,,0.2,2022-08-10,Series D,United States,301.0,,8,2022,August-2022,2022Q3,42.3600825,-71.0588801
+GoHealth,Chicago,Healthcare,800.0,0.2,2022-08-09,IPO,United States,75.0,4000.0,8,2022,August-2022,2022Q3,41.8781136,-87.6297982
+Nutanix,SF Bay Area,Infrastructure,270.0,0.04,2022-08-09,IPO,United States,1100.0,6750.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Quanterix,Boston,Healthcare,130.0,0.25,2022-08-09,IPO,United States,533.0,520.0,8,2022,August-2022,2022Q3,42.3600825,-71.0588801
+Melio,New York City,Finance,60.0,,2022-08-09,Series D,United States,504.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Shogun,SF Bay Area,Retail,48.0,0.3,2022-08-09,Series C,United States,114.0,160.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Absci,Vancouver,Healthcare,40.0,,2022-08-09,IPO,United States,237.0,,8,2022,August-2022,2022Q3,49.2827291,-123.1207375
+Berkeley Lights,SF Bay Area,Healthcare,,0.12,2022-08-09,IPO,United States,272.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+DailyPay,New York City,Finance,,0.15,2022-08-09,Unknown,United States,814.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Haus,SF Bay Area,Food,,1.0,2022-08-09,Seed,United States,7.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Kaltura,New York City,Media,,0.1,2022-08-09,IPO,United States,166.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Groupon,Chicago,Retail,500.0,0.15,2022-08-08,IPO,United States,1400.0,3333.3333333333335,8,2022,August-2022,2022Q3,41.8781136,-87.6297982
+Vroom,New York City,Transportation,337.0,0.17474074074074075,2022-08-08,IPO,United States,1300.0,1928.5714285714284,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Warby Parker,New York City,Consumer,63.0,,2022-08-08,IPO,United States,535.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Labelbox,SF Bay Area,Data,36.0,,2022-08-08,Series D,United States,188.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Daily Harvest,New York City,Food,,0.15,2022-08-08,Series D,United States,120.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+iRobot,Boston,Consumer,140.0,0.1,2022-08-05,Acquired,United States,30.0,1400.0,8,2022,August-2022,2022Q3,42.3600825,-71.0588801
+Doma,SF Bay Area,Finance,250.0,0.13,2022-08-04,IPO,United States,679.0,1923.076923076923,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Jam City,Los Angeles,Consumer,200.0,0.17,2022-08-04,Unknown,United States,652.0,1176.4705882352941,8,2022,August-2022,2022Q3,34.0522342,-118.2436849
+10X Genomics,SF Bay Area,Healthcare,100.0,0.08,2022-08-04,IPO,United States,242.0,1250.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Zendesk,SF Bay Area,Support,80.0,0.011428571428571429,2022-08-04,Acquired,United States,85.0,7000.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+On Deck,SF Bay Area,Education,73.0,0.33,2022-08-04,Series A,United States,20.0,221.2121212121212,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+RingCentral,SF Bay Area,Support,50.0,,2022-08-04,IPO,United States,44.0,,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Medly,New York City,Healthcare,,0.16,2022-08-04,Series C,United States,100.0,,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Weedmaps,Los Angeles,Other,70.0,0.1,2022-08-04,Acquired,United States,,700.0,8,2022,August-2022,2022Q3,34.0522342,-118.2436849
+Healthcare.com,Miami,Healthcare,149.0,,2022-08-03,Series C,United States,244.0,,8,2022,August-2022,2022Q3,25.7616798,-80.1917902
+Beyond Meat,Los Angeles,Food,40.0,0.038000000000000006,2022-08-03,IPO,United States,122.0,1052.6315789473683,8,2022,August-2022,2022Q3,34.0522342,-118.2436849
+The Org,New Delhi,HR,13.0,,2022-08-03,Series B,United States,39.0,,8,2022,August-2022,2022Q3,28.6139391,77.2090212
+Puppet,Portland,Infrastructure,75.0,0.15,2022-08-03,Acquired,United States,189.0,500.0,8,2022,August-2022,2022Q3,45.515232,-122.6783853
+Robinhood,SF Bay Area,Finance,713.0,0.23,2022-08-02,IPO,United States,5600.0,3100.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Latch,New York City,Security,115.0,0.37,2022-08-02,IPO,United States,342.0,310.81081081081084,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Seegrid,Pittsburgh,Logistics,90.0,,2022-08-02,Unknown,United States,107.0,,8,2022,August-2022,2022Q3,40.44062479999999,-79.9958864
+Nylas,SF Bay Area,Product,80.0,0.25,2022-08-02,Series C,United States,175.0,320.0,8,2022,August-2022,2022Q3,37.8271784,-122.2913078
+Outreach,Seattle,Sales,60.0,0.05,2022-08-02,Series G,United States,489.0,1200.0,8,2022,August-2022,2022Q3,47.6062095,-122.3320708
+The Predictive Index,Boston,HR,40.0,0.1694915254237288,2022-08-02,Acquired,United States,71.0,236.0,8,2022,August-2022,2022Q3,42.3600825,-71.0588801
+Stedi,Boulder,Product,23.0,0.3,2022-08-02,Series B,United States,75.0,76.66666666666667,8,2022,August-2022,2022Q3,40.0149856,-105.2705456
+Glossier,New York City,Retail,19.0,0.08,2022-08-02,Series E,United States,266.0,237.5,8,2022,August-2022,2022Q3,40.7127753,-74.0059728
+Butterfly Network,New Haven,Healthcare,,0.1,2022-08-02,IPO,United States,530.0,,8,2022,August-2022,2022Q3,41.308274,-72.9278835
+Perceptive Automata,Boston,Transportation,,1.0,2022-08-01,Series A,United States,20.0,,8,2022,August-2022,2022Q3,42.3600825,-71.0588801
+Gatherly,Atlanta,Marketing,,0.5,2022-07-31,Unknown,United States,,,7,2022,July-2022,2022Q3,33.748752,-84.38768449999999
+Imperfect Foods,SF Bay Area,Food,50.0,,2022-07-29,Series D,United States,229.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Shelf Engine,Seattle,Food,43.0,,2022-07-29,Series B,United States,58.0,,7,2022,July-2022,2022Q3,47.6062095,-122.3320708
+Quantcast,SF Bay Area,Marketing,40.0,0.06,2022-07-29,Series C,United States,65.0,666.6666666666667,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Ribbon,New York City,Real Estate,136.0,0.68,2022-07-28,Series C,United States,405.0,200.0,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Career Karma,SF Bay Area,Education,60.0,0.33,2022-07-28,Series B,United States,51.0,181.8181818181818,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Metromile,SF Bay Area,Finance,60.0,0.2,2022-07-28,Acquired,United States,510.0,300.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Allbirds,SF Bay Area,Retail,23.0,,2022-07-28,IPO,United States,202.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+2U,Washington D.C.,Education,,0.2,2022-07-28,IPO,United States,426.0,,7,2022,July-2022,2022Q3,38.9071923,-77.0368707
+Change.org,SF Bay Area,Other,,0.19,2022-07-28,Series D,United States,72.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Turntide,SF Bay Area,Energy,,0.2,2022-07-28,Unknown,United States,491.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Rivian,Detroit,Transportation,840.0,0.06,2022-07-27,IPO,United States,10700.0,14000.0,7,2022,July-2022,2022Q3,42.331427,-83.0457538
+Vox Media,Washington D.C.,Media,39.0,0.02,2022-07-27,Series F,United States,307.0,1950.0,7,2022,July-2022,2022Q3,38.9071923,-77.0368707
+Outbrain,New York City,Marketing,38.0,0.03,2022-07-26,IPO,United States,394.0,1266.6666666666667,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Dover,SF Bay Area,Recruiting,23.0,0.3,2022-07-26,Series A,United States,22.0,76.66666666666667,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Zymergen,SF Bay Area,Other,80.0,,2022-07-25,Acquired,United States,974.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Pear Therapeutics ,Boston,Healthcare,25.0,0.09,2022-07-25,IPO,United States,409.0,277.77777777777777,7,2022,July-2022,2022Q3,42.3600825,-71.0588801
+ Included Health,SF Bay Area,Healthcare,,0.06,2022-07-25,Series E,United States,272.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Eucalyptus,Sydney,Healthcare,50.0,0.2,2022-07-22,Series C,United States,69.0,250.0,7,2022,July-2022,2022Q3,-33.8688197,151.2092955
+Workstream,SF Bay Area,HR,45.0,,2022-07-22,Series B,United States,58.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Clarify Health,SF Bay Area,Healthcare,15.0,0.05,2022-07-22,Series D,United States,328.0,300.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Boosted Commerce,Los Angeles,Retail,,0.05,2022-07-22,Series B,United States,137.0,,7,2022,July-2022,2022Q3,34.0522342,-118.2436849
+Callisto Media,SF Bay Area,Media,140.0,0.35,2022-07-21,Series D,United States,,400.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+AppGate,Miami,Security,130.0,0.22,2022-07-21,IPO,United States,,590.9090909090909,7,2022,July-2022,2022Q3,25.7616798,-80.1917902
+WHOOP,Boston,Fitness,95.0,0.15,2022-07-21,Series F,United States,404.0,633.3333333333334,7,2022,July-2022,2022Q3,42.3600825,-71.0588801
+Rad Power Bikes,Seattle,Transportation,63.0,0.1,2022-07-21,Series D,United States,329.0,630.0,7,2022,July-2022,2022Q3,47.6062095,-122.3320708
+Lunchbox,New York City,Food,60.0,0.33,2022-07-21,Series B,United States,72.0,181.8181818181818,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+RealSelf,Seattle,Healthcare,11.0,0.05,2022-07-21,Series B,United States,42.0,220.0,7,2022,July-2022,2022Q3,47.6062095,-122.3320708
+98point6,Seattle,Healthcare,,0.1,2022-07-21,Series E,United States,247.0,,7,2022,July-2022,2022Q3,47.6062095,-122.3320708
+InVision,New York City,Product,,0.5,2022-07-21,Series F,United States,356.0,,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Flyhomes,Seattle,Real Estate,200.0,0.2,2022-07-20,Series C,United States,310.0,1000.0,7,2022,July-2022,2022Q3,47.6062095,-122.3320708
+Varo,SF Bay Area,Finance,75.0,,2022-07-20,Series E,United States,992.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+BlueStacks,SF Bay Area,Other,60.0,,2022-07-20,Series C,United States,48.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Lyft,SF Bay Area,Transportation,60.0,0.02,2022-07-20,IPO,United States,4900.0,3000.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Splice,New York City,Media,23.0,,2022-07-20,Series D,United States,159.0,,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Arc,SF Bay Area,HR,13.0,,2022-07-20,Seed,United States,1.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Invitae,SF Bay Area,Healthcare,1000.0,,2022-07-19,IPO,United States,2000.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Olive,Columbus,Healthcare,450.0,0.31,2022-07-19,Series H,United States,856.0,1451.6129032258063,7,2022,July-2022,2022Q3,39.9611755,-82.99879419999999
+M1,Chicago,Finance,38.0,,2022-07-19,Series E,United States,323.0,,7,2022,July-2022,2022Q3,41.8781136,-87.6297982
+Capsule,New York City,Healthcare,,0.13,2022-07-19,Series D,United States,570.0,,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+PACT Pharma,SF Bay Area,Healthcare,94.0,,2022-07-18,Series C,United States,200.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Gemini,New York City,Crypto,68.0,0.07,2022-07-18,Unknown,United States,423.0,971.4285714285713,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Lusha,New York City,Marketing,30.0,0.1,2022-07-18,Series B,United States,245.0,300.0,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Freshly,New York City,Food,,0.25,2022-07-18,Acquired,United States,107.0,,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Hydrow,Boston,Fitness,,0.35,2022-07-18,Series D,United States,269.0,,7,2022,July-2022,2022Q3,42.3600825,-71.0588801
+Vimeo,New York City,Consumer,,0.06,2022-07-18,IPO,United States,450.0,,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Project44,Chicago,Logistics,63.0,0.05,2022-07-15,Unknown,United States,817.0,1260.0,7,2022,July-2022,2022Q3,41.8781136,-87.6297982
+Heroes,London,Retail,24.0,0.2,2022-07-15,Unknown,United States,265.0,120.0,7,2022,July-2022,2022Q3,51.5072178,-0.1275862
+Aspire,SF Bay Area,Marketing,23.0,,2022-07-15,Series A,United States,27.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+StyleSeat,SF Bay Area,Consumer,,0.17,2022-07-15,Series C,United States,40.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+The Mom Project,Chicago,HR,54.0,0.15,2022-07-14,Series C,United States,115.0,360.0,7,2022,July-2022,2022Q3,41.8781136,-87.6297982
+Unstoppable Domains,SF Bay Area,Crypto,42.0,0.25,2022-07-14,Series B,United States,7.0,168.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Kiavi,SF Bay Area,Real Estate,39.0,0.07,2022-07-14,Series E,United States,240.0,557.1428571428571,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+OpenSea,New York City,Crypto,,0.2,2022-07-14,Series C,United States,427.0,,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Tonal,SF Bay Area,Fitness,262.0,0.35,2022-07-13,Series E,United States,450.0,748.5714285714287,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Fabric,New York City,Logistics,120.0,0.4,2022-07-13,Series C,United States,336.0,300.0,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+ChowNow,Los Angeles,Food,100.0,0.2,2022-07-13,Series C,United States,64.0,500.0,7,2022,July-2022,2022Q3,34.0522342,-118.2436849
+100 Thieves,Los Angeles,Consumer,12.0,,2022-07-13,Series C,United States,120.0,,7,2022,July-2022,2022Q3,34.0522342,-118.2436849
+Nuro,SF Bay Area,Transportation,7.0,0.004666666666666667,2022-07-13,Series D,United States,2100.0,1500.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Papa,Miami,Other,,0.15,2022-07-13,Series D,United States,241.0,,7,2022,July-2022,2022Q3,25.7616798,-80.1917902
+Gopuff,Philadelphia,Food,1500.0,0.1,2022-07-12,Series H,United States,3400.0,15000.0,7,2022,July-2022,2022Q3,39.9525839,-75.1652215
+Hubilo,SF Bay Area,Marketing,45.0,0.12,2022-07-12,Series B,United States,153.0,375.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+SundaySky,New York City,Marketing,24.0,0.13,2022-07-11,Series D,United States,74.0,184.6153846153846,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Forward,SF Bay Area,Healthcare,16.666666666666668,0.05,2022-07-11,Series D,United States,225.0,333.33333333333337,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Ignite,SF Bay Area,Crypto,,0.5,2022-07-11,Series A,United States,9.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Butler Hospitality,New York City,Food,1000.0,1.0,2022-07-08,Series B,United States,50.0,1000.0,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Calibrate,New York City,Healthcare,156.0,0.24,2022-07-08,Series B,United States,127.0,650.0,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+NextRoll,SF Bay Area,Marketing,,0.03,2022-07-08,Unknown,United States,108.0,,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Argo AI,Pittsburgh,Transportation,150.0,0.05,2022-07-07,Unknown,United States,3600.0,3000.0,7,2022,July-2022,2022Q3,40.44062479999999,-79.9958864
+Next Insurance,SF Bay Area,Finance,150.0,0.17,2022-07-07,Series E,United States,881.0,882.3529411764705,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Adwerx,Durham,Marketing,40.0,,2022-07-07,Unknown,United States,20.0,,7,2022,July-2022,2022Q3,35.9940329,-78.898619
+Emotive,Los Angeles,Marketing,30.0,0.18,2022-07-07,Series B,United States,78.0,166.66666666666669,7,2022,July-2022,2022Q3,34.0522342,-118.2436849
+Cedar,New York City,Healthcare,,0.24,2022-07-07,Series D,United States,351.0,,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Remote,SF Bay Area,HR,100.0,0.09,2022-07-06,Series C,United States,496.0,1111.111111111111,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Anodot,Tel Aviv,Data,35.0,0.27,2022-07-06,Series C,United States,64.0,129.62962962962962,7,2022,July-2022,2022Q3,32.0852999,34.78176759999999
+SQream,New York City,Data,30.0,0.18,2022-07-06,Series B,United States,77.0,166.66666666666669,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Bizzabo,New York City,Marketing,120.0,0.3,2022-07-05,Series E,United States,194.0,400.0,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Verbit,New York City,Data,80.0,0.1,2022-07-05,Series E,United States,569.0,800.0,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Outschool,SF Bay Area,Education,31.0,0.18,2022-07-05,Series D,United States,240.0,172.22222222222223,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Transmit Security,Boston,Security,27.0,0.07,2022-07-05,Series A,United States,583.0,385.71428571428567,7,2022,July-2022,2022Q3,42.3600825,-71.0588801
+Thimble,New York City,Finance,20.0,0.33,2022-07-05,Series A,United States,28.0,60.6060606060606,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+Celsius,New York City,Crypto,150.0,0.25,2022-07-03,Series B,United States,864.0,600.0,7,2022,July-2022,2022Q3,40.7127753,-74.0059728
+WanderJaunt,SF Bay Area,Travel,85.0,1.0,2022-07-01,Series B,United States,26.0,85.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Canoo,Los Angeles,Transportation,58.0,0.06,2022-07-01,IPO,United States,300.0,966.6666666666667,7,2022,July-2022,2022Q3,34.0522342,-118.2436849
+Bamboo Health,Louisville,Healthcare,52.0,,2022-07-01,Unknown,United States,,,7,2022,July-2022,2022Q3,38.2526647,-85.7584557
+Teleport,SF Bay Area,Infrastructure,15.0,0.06,2022-07-01,Series C,United States,169.0,250.0,7,2022,July-2022,2022Q3,37.8271784,-122.2913078
+Enjoy,SF Bay Area,Retail,400.0,0.18,2022-06-30,IPO,United States,310.0,2222.222222222222,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Stash Financial,New York City,Finance,40.0,0.08,2022-06-30,Unknown,United States,480.0,500.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Nate,New York City,Retail,30.0,0.2,2022-06-30,Series A,United States,47.0,150.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Snyk,Boston,Security,30.0,0.021212121212121213,2022-06-30,Series F,United States,849.0,1414.2857142857142,6,2022,June-2022,2022Q2,42.3600825,-71.0588801
+Stream,Boulder,Product,20.0,0.12,2022-06-30,Series B,United States,58.0,166.66666666666669,6,2022,June-2022,2022Q2,40.0149856,-105.2705456
+Abra,SF Bay Area,Crypto,12.0,0.05,2022-06-30,Series C,United States,106.0,240.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Gavelytics,Los Angeles,Legal,,1.0,2022-06-30,Seed,United States,5.0,,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+Sundae,SF Bay Area,Real Estate,,0.15,2022-06-30,Series C,United States,135.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Unity,SF Bay Area,Other,200.0,0.04,2022-06-29,IPO,United States,1300.0,5000.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Niantic,SF Bay Area,Consumer,85.0,0.08,2022-06-29,Series D,United States,770.0,1062.5,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+AvantStay,Los Angeles,Travel,80.0,0.12222222222222223,2022-06-29,Unknown,United States,811.0,654.5454545454545,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+Qumulo,Seattle,Data,80.0,0.19,2022-06-29,Series E,United States,347.0,421.05263157894734,6,2022,June-2022,2022Q2,47.6062095,-122.3320708
+Parallel Wireless,Nashua,Infrastructure,60.0,,2022-06-29,Unknown,United States,8.0,,6,2022,June-2022,2022Q2,42.7653662,-71.46756599999999
+Baton,SF Bay Area,Transportation,16.0,0.25,2022-06-29,Series A,United States,13.0,64.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Substack,SF Bay Area,Media,13.0,0.14,2022-06-29,Series B,United States,82.0,92.85714285714285,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Degreed,SF Bay Area,Education,,0.15,2022-06-29,Series D,United States,411.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+HomeLight,SF Bay Area,Real Estate,,0.19,2022-06-29,Series D,United States,743.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+StockX,Detroit,Retail,120.0,0.08,2022-06-28,Series E,United States,690.0,1500.0,6,2022,June-2022,2022Q2,42.331427,-83.0457538
+Sidecar Health,Los Angeles,Healthcare,110.0,0.4,2022-06-28,Series C,United States,163.0,275.0,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+StockX,Detroit,Retail,80.0,0.06857142857142856,2022-06-28,Series E,United States,690.0,1166.6666666666667,6,2022,June-2022,2022Q2,42.331427,-83.0457538
+AppLovin,SF Bay Area,Marketing,300.0,0.12,2022-06-27,IPO,United States,1600.0,2500.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+UiPath,New York City,Data,210.0,0.05,2022-06-27,IPO,United States,2000.0,4200.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Cue,San Diego,Healthcare,170.0,,2022-06-27,IPO,United States,999.0,,6,2022,June-2022,2022Q2,32.715738,-117.1610838
+SafeGraph,SF Bay Area,Data,27.0,0.25,2022-06-27,Series B,United States,61.0,108.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Amount,Chicago,Finance,,0.18,2022-06-27,Unknown,United States,283.0,,6,2022,June-2022,2022Q2,41.8781136,-87.6297982
+Postscript,SF Bay Area,Marketing,43.0,,2022-06-26,Series C,United States,106.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Sunday,Atlanta,Finance,90.0,0.23,2022-06-24,Series A,United States,124.0,391.30434782608694,6,2022,June-2022,2022Q2,33.748752,-84.38768449999999
+Bestow,Dallas,Finance,41.0,0.14,2022-06-24,Series C,United States,137.0,292.85714285714283,6,2022,June-2022,2022Q2,32.7766642,-96.79698789999999
+Ethos Life,SF Bay Area,Finance,40.0,0.12,2022-06-24,Series D,United States,406.0,333.33333333333337,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Netflix,SF Bay Area,Media,300.0,0.03,2022-06-23,IPO,United States,121900.0,10000.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Aura,Boston,Security,70.0,0.09,2022-06-23,Series F,United States,500.0,777.7777777777778,6,2022,June-2022,2022Q2,42.3600825,-71.0588801
+Pipl,Spokane,Security,22.0,0.13,2022-06-23,Unknown,United States,19.0,169.23076923076923,6,2022,June-2022,2022Q2,47.6587802,-117.4260466
+Vouch,SF Bay Area,Finance,15.0,0.07,2022-06-23,Series C,United States,159.0,214.28571428571428,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Voyage SMS,Los Angeles,Marketing,8.0,0.13,2022-06-23,Unknown,United States,10.0,61.53846153846153,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+Esper,Seattle,Other,,0.12,2022-06-23,Series A,United States,10.0,,6,2022,June-2022,2022Q2,47.6062095,-122.3320708
+Orchard,New York City,Real Estate,,0.1,2022-06-23,Series D,United States,472.0,,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Ro,New York City,Healthcare,,0.18,2022-06-23,Unknown,United States,1000.0,,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+MasterClass,SF Bay Area,Education,120.0,0.2,2022-06-22,Series E,United States,461.0,600.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+IronNet,Washington D.C.,Security,90.0,0.35,2022-06-22,IPO,United States,410.0,257.14285714285717,6,2022,June-2022,2022Q2,38.9071923,-77.0368707
+Bungalow,SF Bay Area,Real Estate,70.0,,2022-06-22,Series C,United States,171.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+IronNet,Washington D.C.,Security,55.0,0.17,2022-06-22,IPO,United States,410.0,323.52941176470586,6,2022,June-2022,2022Q2,38.9071923,-77.0368707
+Sprinklr,New York City,Support,50.0,,2022-06-22,IPO,United States,429.0,,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Superpedestrian,Boston,Transportation,35.0,0.07,2022-06-22,Series C,United States,261.0,499.99999999999994,6,2022,June-2022,2022Q2,42.3600825,-71.0588801
+Voi,Stockholm,Transportation,35.0,0.1,2022-06-22,Series D,United States,515.0,350.0,6,2022,June-2022,2022Q2,59.32932349999999,18.0685808
+Balto,St. Louis,Sales,30.0,,2022-06-22,Series B,United States,51.0,,6,2022,June-2022,2022Q2,38.6270025,-90.19940419999999
+TaskUs,Los Angeles,Support,52.0,0.0,2022-06-21,IPO,United States,279.0,,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+Community,Los Angeles,Marketing,40.0,0.3,2022-06-21,Unknown,United States,40.0,133.33333333333334,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+Sourcegraph,SF Bay Area,Product,24.0,0.08,2022-06-21,Series D,United States,248.0,300.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Tray.io,SF Bay Area,Data,,0.1,2022-06-21,Series C,United States,109.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+SummerBio,SF Bay Area,Healthcare,101.0,1.0,2022-06-20,Unknown,United States,7.0,101.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Buzzer,New York City,Media,,0.2,2022-06-20,Unknown,United States,32.0,,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Socure,Reno,Finance,69.0,0.13,2022-06-17,Series E,United States,646.0,530.7692307692307,6,2022,June-2022,2022Q2,39.529919,-119.8142691
+Finite State,Columbus,Security,16.0,0.2,2022-06-17,Series B,United States,49.0,80.0,6,2022,June-2022,2022Q2,39.9611755,-82.99879419999999
+JOKR,New York City,Food,50.0,0.05,2022-06-16,Series B,United States,430.0,1000.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Zumper,SF Bay Area,Real Estate,45.0,0.15,2022-06-16,Series D,United States,178.0,300.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Circulo Health,Columbus,Healthcare,,0.5,2022-06-16,Series A,United States,50.0,,6,2022,June-2022,2022Q2,39.9611755,-82.99879419999999
+Weee!,SF Bay Area,Food,150.0,0.1,2022-06-15,Series E,United States,863.0,1500.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Notarize,Boston,Legal,110.0,0.25,2022-06-15,Series D,United States,213.0,440.0,6,2022,June-2022,2022Q2,42.3600825,-71.0588801
+Tonkean,SF Bay Area,Other,23.0,0.23,2022-06-15,Series B,United States,83.0,100.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+JetClosing,Seattle,Real Estate,100.0,1.0,2022-06-15,Series B,United States,44.0,100.0,6,2022,June-2022,2022Q2,47.6062095,-122.3320708
+Coinbase,SF Bay Area,Crypto,1100.0,0.18,2022-06-14,IPO,United States,549.0,6111.111111111111,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Redfin,Seattle,Real Estate,470.0,0.08,2022-06-14,IPO,United States,319.0,5875.0,6,2022,June-2022,2022Q2,47.6062095,-122.3320708
+Compass,New York City,Real Estate,450.0,0.1,2022-06-14,IPO,United States,1600.0,4500.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+TIFIN,Boulder,Crypto,24.0,0.1,2022-06-14,Series D,United States,204.0,240.0,6,2022,June-2022,2022Q2,40.0149856,-105.2705456
+BlockFi,New York City,Crypto,250.0,0.2,2022-06-13,Series E,United States,1000.0,1250.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Wave Sports and Entertainment,Los Angeles,Media,56.0,0.33,2022-06-13,Series B,United States,65.0,169.6969696969697,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+Studio,SF Bay Area,Education,33.0,0.4,2022-06-13,Series B,United States,50.0,82.5,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Desktop Metal,Boston,Other,,0.12,2022-06-13,IPO,United States,811.0,,6,2022,June-2022,2022Q2,42.3600825,-71.0588801
+Albert,Los Angeles,Finance,20.0,0.08,2022-06-10,Series C,United States,175.0,250.0,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+OneTrust,Atlanta,Security,950.0,0.25,2022-06-09,Series C,United States,926.0,3800.0,6,2022,June-2022,2022Q2,33.748752,-84.38768449999999
+Stitch Fix,SF Bay Area,Retail,330.0,0.15,2022-06-09,IPO,United States,79.0,2200.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Convoy,Seattle,Logistics,90.0,0.07,2022-06-09,Series E,United States,1100.0,1285.7142857142856,6,2022,June-2022,2022Q2,47.6062095,-122.3320708
+Hologram,Chicago,Infrastructure,80.0,0.4,2022-06-09,Series B,United States,82.0,200.0,6,2022,June-2022,2022Q2,41.8781136,-87.6297982
+The Grommet,Boston,Retail,40.0,1.0,2022-06-09,Acquired,United States,5.0,40.0,6,2022,June-2022,2022Q2,42.3600825,-71.0588801
+Preply,Boston,Education,26.0,0.05,2022-06-09,Series C,United States,100.0,520.0,6,2022,June-2022,2022Q2,42.3600825,-71.0588801
+Jellysmack,New York City,Media,,0.08,2022-06-09,Series C,United States,22.0,,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Starship,SF Bay Area,Transportation,,0.11,2022-06-09,Series B,United States,197.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Sonder,SF Bay Area,Travel,250.0,0.21,2022-06-08,IPO,United States,839.0,1190.4761904761906,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Truepill,SF Bay Area,Healthcare,150.0,0.15,2022-06-08,Series D,United States,255.0,1000.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Bird,Los Angeles,Transportation,138.0,0.23,2022-06-07,IPO,United States,783.0,600.0,6,2022,June-2022,2022Q2,34.0522342,-118.2436849
+ID.me,Washington D.C.,Security,130.0,,2022-06-07,Unknown,United States,275.0,,6,2022,June-2022,2022Q2,38.9071923,-77.0368707
+KiwiCo,SF Bay Area,Retail,40.0,,2022-06-07,Unknown,United States,11.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Dutchie,Bend,Other,50.0,0.07,2022-06-06,Series D,United States,603.0,714.2857142857142,6,2022,June-2022,2022Q2,44.0581728,-121.3153096
+Deep Instinct,New York City,Security,,0.1,2022-06-06,Series D,United States,259.0,,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Sendoso,SF Bay Area,Marketing,,0.14,2022-06-06,Series C,United States,152.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Superhuman,SF Bay Area,Consumer,23.0,0.22,2022-06-03,Series C,United States,108.0,104.54545454545455,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Food52,New York City,Food,21.0,0.15,2022-06-03,Acquired,United States,176.0,140.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Tesla,Austin,Transportation,,0.1,2022-06-03,IPO,United States,20200.0,,6,2022,June-2022,2022Q2,30.267153,-97.7430608
+Carbon Health,SF Bay Area,Healthcare,250.0,0.08,2022-06-02,Series D,United States,522.0,3125.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+PolicyGenius,New York City,Finance,170.0,0.25,2022-06-02,Series E,United States,286.0,680.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Gemini,New York City,Crypto,100.0,0.1,2022-06-02,Unknown,United States,423.0,1000.0,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Stord,Atlanta,Logistics,59.0,0.08,2022-06-02,Series D,United States,325.0,737.5,6,2022,June-2022,2022Q2,33.748752,-84.38768449999999
+Gather,SF Bay Area,Consumer,30.0,0.33,2022-06-02,Series B,United States,76.0,90.9090909090909,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Shef,SF Bay Area,Food,29.0,,2022-06-02,Series A,United States,28.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+IRL,SF Bay Area,Consumer,25.0,0.25,2022-06-02,Series C,United States,197.0,100.0,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Kaodim,Selangor,Consumer,,1.0,2022-06-02,Series B,United States,17.0,,6,2022,June-2022,2022Q2,3.0738379,101.5183469
+Cybereason,Boston,Security,100.0,0.06,2022-06-01,Series F,United States,750.0,1666.6666666666667,6,2022,June-2022,2022Q2,42.3600825,-71.0588801
+Loom,SF Bay Area,Product,34.0,0.14,2022-06-01,Series C,United States,203.0,242.85714285714283,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Skillshare,New York City,Education,31.0,,2022-06-01,Unknown,United States,136.0,,6,2022,June-2022,2022Q2,40.7127753,-74.0059728
+Eaze,SF Bay Area,Consumer,25.0,,2022-06-01,Series D,United States,202.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Side,SF Bay Area,Real Estate,,0.1,2022-06-01,Unknown,United States,313.0,,6,2022,June-2022,2022Q2,37.8271784,-122.2913078
+Replicated,Los Angeles,Infrastructure,50.0,,2022-05-31,Series C,United States,85.0,,5,2022,May-2022,2022Q2,34.0522342,-118.2436849
+Tomo,Stamford,Finance,44.0,0.33,2022-05-31,Series A,United States,110.0,133.33333333333331,5,2022,May-2022,2022Q2,41.0534302,-73.5387341
+BookClub,Salt Lake City,Education,12.0,0.25,2022-05-31,Series A,United States,26.0,48.0,5,2022,May-2022,2022Q2,40.7607793,-111.8910474
+Lacework,SF Bay Area,Security,300.0,0.2,2022-05-25,Series D,United States,1900.0,1500.0,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+Bolt,SF Bay Area,Finance,240.0,0.27,2022-05-25,Series E,United States,1300.0,888.8888888888888,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+PeerStreet,Los Angeles,Finance,75.0,0.4411764705882353,2022-05-25,Series C,United States,121.0,170.0,5,2022,May-2022,2022Q2,34.0522342,-118.2436849
+Coterie Insurance,Cincinnati,Finance,30.0,0.2,2022-05-25,Series B,United States,70.0,150.0,5,2022,May-2022,2022Q2,39.1031182,-84.5120196
+The Zebra,Austin,Finance,40.0,,2022-05-24,Series D,United States,256.0,,5,2022,May-2022,2022Q2,30.267153,-97.7430608
+PayPal,SF Bay Area,Finance,83.0,,2022-05-23,IPO,United States,216.0,,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+ClickUp,San Diego,Other,60.0,0.07,2022-05-23,Series C,United States,537.0,857.1428571428571,5,2022,May-2022,2022Q2,32.715738,-117.1610838
+Airtime,New York City,Consumer,30.0,0.2,2022-05-23,Series B,United States,33.0,150.0,5,2022,May-2022,2022Q2,40.7127753,-74.0059728
+Latch,New York City,Security,130.0,0.28,2022-05-20,IPO,United States,342.0,464.2857142857142,5,2022,May-2022,2022Q2,40.7127753,-74.0059728
+Outside,Boulder,Media,87.0,0.15,2022-05-20,Series B,United States,174.0,580.0,5,2022,May-2022,2022Q2,40.0149856,-105.2705456
+Skillz,SF Bay Area,Consumer,70.0,0.1,2022-05-20,IPO,United States,287.0,700.0,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+Netflix,SF Bay Area,Media,150.0,0.01,2022-05-17,IPO,United States,121900.0,15000.0,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+Picsart,Miami,Consumer,90.0,0.08,2022-05-17,Series C,United States,195.0,1125.0,5,2022,May-2022,2022Q2,25.7616798,-80.1917902
+Zak,Sao Paulo,Food,100.0,0.4,2022-05-16,Series A,United States,29.0,250.0,5,2022,May-2022,2022Q2,-23.5557714,-46.6395571
+Thirty Madison,New York City,Healthcare,24.0,,2022-05-14,Acquired,United States,209.0,,5,2022,May-2022,2022Q2,40.7127753,-74.0059728
+CommonBond,New York City,Finance,22.0,,2022-05-13,Series D,United States,130.0,,5,2022,May-2022,2022Q2,40.7127753,-74.0059728
+Subspace,Los Angeles,Infrastructure,,1.0,2022-05-13,Series B,United States,,,5,2022,May-2022,2022Q2,34.0522342,-118.2436849
+Zwift,Los Angeles,Fitness,150.0,,2022-05-12,Series C,United States,619.0,,5,2022,May-2022,2022Q2,34.0522342,-118.2436849
+Section4,New York City,Education,32.0,,2022-05-12,Series A,United States,37.0,,5,2022,May-2022,2022Q2,40.7127753,-74.0059728
+DataRobot,Boston,Data,70.0,0.07,2022-05-11,Series G,United States,1000.0,999.9999999999999,5,2022,May-2022,2022Q2,42.3600825,-71.0588801
+Carvana,Phoenix,Transportation,2500.0,0.12,2022-05-10,IPO,United States,1600.0,20833.333333333336,5,2022,May-2022,2022Q2,33.4483771,-112.0740373
+Doma,SF Bay Area,Finance,310.0,0.15,2022-05-10,IPO,United States,679.0,2066.666666666667,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+Latch,New York City,Security,30.0,0.06,2022-05-10,IPO,United States,342.0,500.0,5,2022,May-2022,2022Q2,40.7127753,-74.0059728
+Vroom,New York City,Transportation,270.0,0.14,2022-05-09,IPO,United States,1300.0,1928.5714285714284,5,2022,May-2022,2022Q2,40.7127753,-74.0059728
+Reef,Miami,Transportation,750.0,0.05,2022-05-06,Unknown,United States,1500.0,15000.0,5,2022,May-2022,2022Q2,25.7616798,-80.1917902
+divvyDOSE,Davenport,Healthcare,62.0,,2022-05-06,Acquired,United States,0.0,,5,2022,May-2022,2022Q2,41.5236437,-90.5776367
+Mural,SF Bay Area,Product,90.0,0.1,2022-05-05,Series C,United States,192.0,900.0,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+On Deck,SF Bay Area,Education,72.0,0.25,2022-05-05,Series A,United States,20.0,288.0,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+Colossus,Boston,Energy,97.0,,2022-05-04,Series A,United States,41.0,,5,2022,May-2022,2022Q2,42.3600825,-71.0588801
+Cameo,Chicago,Consumer,87.0,0.25,2022-05-04,Unknown,United States,165.0,348.0,5,2022,May-2022,2022Q2,41.8781136,-87.6297982
+Mainstreet,SF Bay Area,Finance,45.0,0.3,2022-05-04,Series A,United States,64.0,150.0,5,2022,May-2022,2022Q2,37.8271784,-122.2913078
+Ideoclick,Seattle,Retail,40.0,,2022-05-04,Series A,United States,7.0,,5,2022,May-2022,2022Q2,47.6062095,-122.3320708
+Vise,New York City,Finance,25.0,,2022-05-04,Series C,United States,128.0,,5,2022,May-2022,2022Q2,40.7127753,-74.0059728
+Noom,New York City,Healthcare,495.0,0.099,2022-04-29,Series F,United States,657.0,5000.0,4,2022,April-2022,2022Q2,40.7127753,-74.0059728
+Domestika,SF Bay Area,Education,150.0,0.19,2022-04-28,Series D,United States,130.0,789.4736842105264,4,2022,April-2022,2022Q2,37.8271784,-122.2913078
+Netflix,SF Bay Area,Media,25.0,0.002,2022-04-28,IPO,United States,121900.0,12500.0,4,2022,April-2022,2022Q2,37.8271784,-122.2913078
+Wahoo Fitness,Atlanta,Fitness,50.0,,2022-04-27,Unknown,United States,,,4,2022,April-2022,2022Q2,33.748752,-84.38768449999999
+Robinhood,SF Bay Area,Finance,340.0,0.09,2022-04-26,IPO,United States,5600.0,3777.777777777778,4,2022,April-2022,2022Q2,37.8271784,-122.2913078
+Clyde,New York City,Marketing,22.0,,2022-04-25,Series B,United States,58.0,,4,2022,April-2022,2022Q2,40.7127753,-74.0059728
+Lemonade,New York City,Finance,52.0,,2022-04-20,IPO,United States,481.0,,4,2022,April-2022,2022Q2,40.7127753,-74.0059728
+Blend,SF Bay Area,Finance,200.0,0.1,2022-04-19,IPO,United States,665.0,2000.0,4,2022,April-2022,2022Q2,37.8271784,-122.2913078
+Automox,Boulder,Infrastructure,,0.11,2022-04-18,Series C,United States,152.0,,4,2022,April-2022,2022Q2,40.0149856,-105.2705456
+Humble,SF Bay Area,Media,10.0,,2022-04-15,Acquired,United States,4.0,,4,2022,April-2022,2022Q2,37.8271784,-122.2913078
+Halcyon Health,New York City,Healthcare,,1.0,2022-04-15,Unknown,United States,2.0,,4,2022,April-2022,2022Q2,40.7127753,-74.0059728
+Ahead,SF Bay Area,Healthcare,44.0,1.0,2022-04-14,Unknown,United States,9.0,44.0,4,2022,April-2022,2022Q2,37.8271784,-122.2913078
+Rad Power Bikes,Seattle,Transportation,100.0,0.14,2022-04-12,Series D,United States,329.0,714.2857142857142,4,2022,April-2022,2022Q2,47.6062095,-122.3320708
+Food52,New York City,Food,20.0,0.1,2022-04-08,Acquired,United States,176.0,200.0,4,2022,April-2022,2022Q2,40.7127753,-74.0059728
+Workrise,Austin,Energy,450.0,,2022-04-05,Series E,United States,752.0,,4,2022,April-2022,2022Q2,30.267153,-97.7430608
+Fast,SF Bay Area,Finance,,1.0,2022-04-05,Series B,United States,124.0,,4,2022,April-2022,2022Q2,37.8271784,-122.2913078
+Gopuff,Philadelphia,Food,450.0,0.03,2022-03-29,Series H,United States,3400.0,15000.0,3,2022,March-2022,2022Q1,39.9525839,-75.1652215
+Grove Collaborative,SF Bay Area,Retail,,0.17,2022-03-19,Series E,United States,474.0,,3,2022,March-2022,2022Q1,37.8271784,-122.2913078
+Curology,SF Bay Area,Healthcare,150.0,,2022-03-16,Series D,United States,19.0,,3,2022,March-2022,2022Q1,37.8271784,-122.2913078
+Knock,New York City,Real Estate,115.0,0.46,2022-03-15,Unknown,United States,654.0,250.0,3,2022,March-2022,2022Q1,40.7127753,-74.0059728
+Talis Biomedical,SF Bay Area,Healthcare,,0.25,2022-03-15,IPO,United States,8.0,,3,2022,March-2022,2022Q1,37.8271784,-122.2913078
+Sezzle,Minneapolis,Finance,,0.2,2022-03-10,Acquired,United States,301.0,,3,2022,March-2022,2022Q1,44.977753,-93.2650108
+Better.com,New York City,Real Estate,3000.0,0.33,2022-03-08,Unknown,United States,905.0,9090.90909090909,3,2022,March-2022,2022Q1,40.7127753,-74.0059728
+Adaptive Biotechnologies,Seattle,Healthcare,100.0,0.12,2022-03-08,IPO,United States,406.0,833.3333333333334,3,2022,March-2022,2022Q1,47.6062095,-122.3320708
+Hyperscience,New York City,Data,100.0,0.25,2022-03-03,Series E,United States,289.0,400.0,3,2022,March-2022,2022Q1,40.7127753,-74.0059728
+Wish,SF Bay Area,Retail,190.0,0.15,2022-03-01,IPO,United States,1600.0,1266.6666666666667,3,2022,March-2022,2022Q1,37.8271784,-122.2913078
+Virgin Hyperloop,Los Angeles,Transportation,111.0,0.5,2022-02-21,Unknown,United States,368.0,222.0,2,2022,February-2022,2022Q1,34.0522342,-118.2436849
+Homie,Salt Lake City,Real Estate,119.0,0.29,2022-02-14,Series B,United States,35.0,410.3448275862069,2,2022,February-2022,2022Q1,40.7607793,-111.8910474
+Hopin,London,Other,138.0,0.12,2022-02-10,Series D,United States,1000.0,1150.0,2,2022,February-2022,2022Q1,51.5072178,-0.1275862
+Peloton,New York City,Fitness,2800.0,0.2,2022-02-08,IPO,United States,1900.0,14000.0,2,2022,February-2022,2022Q1,40.7127753,-74.0059728
+Rhino,New York City,Real Estate,57.0,0.2,2022-02-03,Unknown,United States,133.0,285.0,2,2022,February-2022,2022Q1,40.7127753,-74.0059728
+Gopuff,Philadelphia,Food,100.0,0.006666666666666667,2022-01-26,Series H,United States,3400.0,15000.0,1,2022,January-2022,2022Q1,39.9525839,-75.1652215
+Glossier,New York City,Consumer,80.0,0.33,2022-01-26,Series E,United States,266.0,242.4242424242424,1,2022,January-2022,2022Q1,40.7127753,-74.0059728
+Root Insurance,Columbus,Finance,330.0,0.48175182481751827,2022-01-20,IPO,United States,527.0,685.0,1,2022,January-2022,2022Q1,39.9611755,-82.99879419999999
+Spin,SF Bay Area,Transportation,195.0,0.25,2022-01-08,Acquired,United States,8.0,780.0,1,2022,January-2022,2022Q1,37.8271784,-122.2913078
+Pegasystems,Boston,HR,245.0,0.04,2022-01-03,IPO,United States,,6125.0,1,2022,January-2022,2022Q1,42.3600825,-71.0588801
+Better.com,New York City,Real Estate,900.0,0.09,2021-12-01,Unknown,United States,905.0,10000.0,12,2021,December-2021,2021Q4,40.7127753,-74.0059728
+BitTitan,Seattle,Data,70.0,0.27,2021-11-18,Acquired,United States,46.0,259.25925925925924,11,2021,November-2021,2021Q4,47.6062095,-122.3320708
+Zillow,Seattle,Real Estate,2000.0,0.25,2021-11-02,IPO,United States,97.0,8000.0,11,2021,November-2021,2021Q4,47.6062095,-122.3320708
+InVision,New York City,Product,22.0,,2021-10-05,Unknown,United States,356.0,,10,2021,October-2021,2021Q4,40.7127753,-74.0059728
+Ozy Media,SF Bay Area,Media,,1.0,2021-10-01,Series C,United States,70.0,,10,2021,October-2021,2021Q4,37.8271784,-122.2913078
+Zymergen,SF Bay Area,Other,120.0,,2021-09-23,IPO,United States,974.0,,9,2021,September-2021,2021Q3,37.8271784,-122.2913078
+Treehouse,Portland,Education,41.0,0.9,2021-09-14,Series B,United States,12.0,45.55555555555556,9,2021,September-2021,2021Q3,45.515232,-122.6783853
+Tanium,Seattle,Security,30.0,,2021-08-30,Unknown,United States,1000.0,,8,2021,August-2021,2021Q3,47.6062095,-122.3320708
+Flockjay,SF Bay Area,Education,37.0,0.5,2021-08-24,Series A,United States,14.0,74.0,8,2021,August-2021,2021Q3,37.8271784,-122.2913078
+Katerra,SF Bay Area,Construction,2434.0,1.0,2021-06-01,Unknown,United States,1600.0,2434.0,6,2021,June-2021,2021Q2,37.8271784,-122.2913078
+Lambda School,SF Bay Area,Education,65.0,,2021-04-29,Series C,United States,122.0,,4,2021,April-2021,2021Q2,37.8271784,-122.2913078
+Madefire,SF Bay Area,Media,,1.0,2021-04-29,Series B,United States,16.0,,4,2021,April-2021,2021Q2,37.8271784,-122.2913078
+Patreon,SF Bay Area,Media,36.0,0.10265806451612904,2021-04-26,Series D,United States,165.0,350.6787330316742,4,2021,April-2021,2021Q2,37.8271784,-122.2913078
+New Relic,SF Bay Area,Infrastructure,160.0,0.07,2021-04-06,IPO,United States,214.5,2285.7142857142853,4,2021,April-2021,2021Q2,37.8271784,-122.2913078
+HuffPo,New York City,Media,47.0,,2021-03-09,Acquired,United States,37.0,,3,2021,March-2021,2021Q1,40.7127753,-74.0059728
+ThredUp,Chicago,Retail,243.0,,2021-02-09,Series F,United States,305.0,,2,2021,February-2021,2021Q1,41.8781136,-87.6297982
+Indigo,Boston,Other,80.0,,2021-02-09,Series F,United States,1200.0,,2,2021,February-2021,2021Q1,42.3600825,-71.0588801
+Limelight,New York City,Recruiting,13.0,1.0,2021-02-04,Unknown,United States,,13.0,2,2021,February-2021,2021Q1,40.7127753,-74.0059728
+Postmates,SF Bay Area,Food,180.0,0.15,2021-01-23,Acquired,United States,763.0,1200.0,1,2021,January-2021,2021Q1,37.8271784,-122.2913078
+Instacart,SF Bay Area,Food,1877.0,,2021-01-21,Unknown,United States,2400.0,,1,2021,January-2021,2021Q1,37.8271784,-122.2913078
+Dropbox,SF Bay Area,Other,315.0,0.15,2021-01-13,IPO,United States,1700.0,2100.0,1,2021,January-2021,2021Q1,37.8271784,-122.2913078
+Aura Financial,SF Bay Area,Finance,,1.0,2021-01-11,Unknown,United States,584.0,,1,2021,January-2021,2021Q1,37.8271784,-122.2913078
+Simple,Portland,Finance,,1.0,2021-01-07,Acquired,United States,15.0,,1,2021,January-2021,2021Q1,45.515232,-122.6783853
+Pulse Secure,SF Bay Area,Security,78.0,,2020-12-23,Acquired,United States,,,12,2020,December-2020,2020Q4,37.8271784,-122.2913078
+Actifio,Boston,Data,54.0,,2020-12-16,Acquired,United States,352.0,,12,2020,December-2020,2020Q4,42.3600825,-71.0588801
+Aya,Toronto,Finance,5.0,0.25,2020-11-19,Seed,United States,3.0,20.0,11,2020,November-2020,2020Q4,43.653226,-79.3831843
+Domio,New York City,Real Estate,,0.5,2020-11-18,Series B,United States,116.0,,11,2020,November-2020,2020Q4,40.7127753,-74.0059728
+Bridge Connector,Nashville,Healthcare,154.0,1.0,2020-11-17,Series B,United States,45.0,154.0,11,2020,November-2020,2020Q4,36.1626638,-86.7816016
+Tidepool,SF Bay Area,Healthcare,18.0,0.4,2020-11-17,Unknown,United States,,45.0,11,2020,November-2020,2020Q4,37.8271784,-122.2913078
+Worksmith,Austin,Retail,30.0,0.5,2020-11-09,Unknown,United States,3.8,60.0,11,2020,November-2020,2020Q4,30.267153,-97.7430608
+Rubica,Seattle,Security,,1.0,2020-11-05,Series A,United States,14.0,,11,2020,November-2020,2020Q4,47.6062095,-122.3320708
+Bossa Nova,SF Bay Area,Retail,,0.5,2020-11-02,Unknown,United States,101.6,,11,2020,November-2020,2020Q4,37.8271784,-122.2913078
+Remedy,Austin,Healthcare,82.0,,2020-10-29,Series A,United States,12.5,,10,2020,October-2020,2020Q4,30.267153,-97.7430608
+Knotel,New York City,Real Estate,20.0,0.08,2020-10-29,Series C,United States,560.0,250.0,10,2020,October-2020,2020Q4,40.7127753,-74.0059728
+CodeCombat,SF Bay Area,Education,8.0,,2020-10-23,Series A,United States,8.0,,10,2020,October-2020,2020Q4,37.8271784,-122.2913078
+Quibi,Los Angeles,Media,,1.0,2020-10-21,Private Equity,United States,1800.0,,10,2020,October-2020,2020Q4,34.0522342,-118.2436849
+Alto Pharmacy,SF Bay Area,Healthcare,47.0,0.06,2020-09-29,Series D,United States,356.0,783.3333333333334,9,2020,September-2020,2020Q3,37.8271784,-122.2913078
+Air,New York City,Marketing,,0.16,2020-09-16,Series A,United States,18.0,,9,2020,September-2020,2020Q3,40.7127753,-74.0059728
+NS8,Las Vegas,Data,240.0,0.95,2020-09-11,Series A,United States,157.9,252.63157894736844,9,2020,September-2020,2020Q3,36.171563,-115.1391009
+HubHaus,SF Bay Area,Real Estate,,1.0,2020-09-11,Series A,United States,13.4,,9,2020,September-2020,2020Q3,37.8271784,-122.2913078
+Waze,SF Bay Area,Transportation,30.0,0.054,2020-09-09,Acquired,United States,67.0,555.5555555555555,9,2020,September-2020,2020Q3,37.8271784,-122.2913078
+Ouster,SF Bay Area,Transportation,,0.1,2020-09-08,Series B,United States,132.0,,9,2020,September-2020,2020Q3,37.8271784,-122.2913078
+Big Fish Games,Seattle,Media,250.0,,2020-09-01,Acquired,United States,95.2,,9,2020,September-2020,2020Q3,47.6062095,-122.3320708
+Salesforce,SF Bay Area,Sales,1000.0,0.0185,2020-08-26,IPO,United States,65.4,54054.05405405405,8,2020,August-2020,2020Q3,37.8271784,-122.2913078
+Lumina Networks,SF Bay Area,Infrastructure,,1.0,2020-08-18,Series A,United States,10.0,,8,2020,August-2020,2020Q3,37.8271784,-122.2913078
+Mozilla,SF Bay Area,Consumer,250.0,0.25,2020-08-11,Unknown,United States,2.3,1000.0,8,2020,August-2020,2020Q3,37.8271784,-122.2913078
+Glossier,New York City,Retail,150.0,0.38,2020-08-07,Series D,United States,186.4,394.7368421052632,8,2020,August-2020,2020Q3,40.7127753,-74.0059728
+Vesta,Atlanta,Sales,56.0,,2020-08-05,Unknown,United States,20.0,,8,2020,August-2020,2020Q3,33.748752,-84.38768449999999
+Buy.com / Rakuten,SF Bay Area,Retail,87.0,1.0,2020-07-30,Acquired,United States,42.4,87.0,7,2020,July-2020,2020Q3,37.8271784,-122.2913078
+Procore,Los Angeles,Construction,180.0,0.09,2020-07-28,Unknown,United States,649.0,2000.0,7,2020,July-2020,2020Q3,34.0522342,-118.2436849
+Checkr,SF Bay Area,HR,64.0,0.12,2020-07-23,Series D,United States,309.0,533.3333333333334,7,2020,July-2020,2020Q3,37.8271784,-122.2913078
+LinkedIn,SF Bay Area,Recruiting,960.0,0.06,2020-07-21,Acquired,United States,154.0,16000.0,7,2020,July-2020,2020Q3,37.8271784,-122.2913078
+Lighter Capital,Seattle,Finance,22.0,0.49,2020-07-20,Series B,United States,15.0,44.89795918367347,7,2020,July-2020,2020Q3,47.6062095,-122.3320708
+Optimizely,SF Bay Area,Marketing,60.0,0.15,2020-07-15,Series D,United States,251.2,400.0,7,2020,July-2020,2020Q3,37.8271784,-122.2913078
+Yelp,SF Bay Area,Consumer,63.0,0.01071,2020-07-13,IPO,United States,56.0,5882.35294117647,7,2020,July-2020,2020Q3,37.8271784,-122.2913078
+Funding Circle,SF Bay Area,Finance,85.0,,2020-07-08,IPO,United States,746.0,,7,2020,July-2020,2020Q3,37.8271784,-122.2913078
+The Wing,New York City,Real Estate,56.0,,2020-07-01,Series C,United States,117.0,,7,2020,July-2020,2020Q3,40.7127753,-74.0059728
+Sharethrough,SF Bay Area,Marketing,18.0,,2020-07-01,Series D,United States,38.0,,7,2020,July-2020,2020Q3,37.8271784,-122.2913078
+Kongregate,SF Bay Area,Media,12.0,,2020-07-01,Series C,United States,19.0,,7,2020,July-2020,2020Q3,37.8271784,-122.2913078
+Havenly,Denver,Consumer,5.0,,2020-07-01,Series C,United States,57.8,,7,2020,July-2020,2020Q3,39.7392358,-104.990251
+G2,Chicago,Marketing,17.0,0.05,2020-06-30,Series C,United States,100.8,340.0,6,2020,June-2020,2020Q2,41.8781136,-87.6297982
+Katerra,SF Bay Area,Construction,400.0,0.07,2020-06-29,Series E,United States,1300.0,5714.285714285714,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Bossa Nova,SF Bay Area,Retail,61.0,,2020-06-29,Unknown,United States,101.6,,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+New Relic,Portland,Infrastructure,20.0,0.0089171974522293,2020-06-29,IPO,United States,214.5,2242.8571428571427,6,2020,June-2020,2020Q2,45.515232,-122.6783853
+Engine eCommerce,Fayetteville,Retail,,1.0,2020-06-28,Unknown,United States,4.0,,6,2020,June-2020,2020Q2,35.0526641,-78.87835849999999
+GoDaddy,Austin,Marketing,451.0,0.06,2020-06-24,IPO,United States,,7516.666666666667,6,2020,June-2020,2020Q2,30.267153,-97.7430608
+Sonos,New York City,Consumer,174.0,0.12,2020-06-24,IPO,United States,455.2,1450.0,6,2020,June-2020,2020Q2,40.7127753,-74.0059728
+ScaleFactor,Austin,Finance,90.0,0.9,2020-06-23,Series C,United States,103.0,100.0,6,2020,June-2020,2020Q2,30.267153,-97.7430608
+Dark,SF Bay Area,Product,6.0,1.0,2020-06-23,Seed,United States,3.0,6.0,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Intuit,SF Bay Area,Finance,715.0,0.07,2020-06-22,IPO,United States,18.0,10214.285714285714,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Atlas Obscura ,New York City,Media,15.0,,2020-06-18,Series B,United States,32.0,,6,2020,June-2020,2020Q2,40.7127753,-74.0059728
+Splunk,SF Bay Area,Data,70.0,0.01,2020-06-16,IPO,United States,40.0,7000.0,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Redox,Madison,Healthcare,44.0,0.25,2020-06-16,Series C,United States,50.0,176.0,6,2020,June-2020,2020Q2,43.0721661,-89.4007501
+Conga,Denver,Data,,0.11,2020-06-15,Acquired,United States,117.0,,6,2020,June-2020,2020Q2,39.7392358,-104.990251
+Stockwell AI,SF Bay Area,Retail,,1.0,2020-06-15,Series B,United States,10.0,,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+SynapseFI,SF Bay Area,Finance,63.0,0.48,2020-06-12,Series B,United States,50.0,131.25,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Branch,New York City,Retail,3.0,0.27,2020-06-11,Seed,United States,2.0,11.11111111111111,6,2020,June-2020,2020Q2,40.7127753,-74.0059728
+Her Campus Media,Boston,Media,10.0,0.18,2020-06-10,Unknown,United States,,55.55555555555556,6,2020,June-2020,2020Q2,42.3600825,-71.0588801
+The Athletic,SF Bay Area,Media,46.0,0.08,2020-06-05,Series D,United States,139.0,575.0,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Ethos Life,SF Bay Area,Finance,18.0,0.14,2020-06-05,Series C,United States,106.0,128.57142857142856,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Lastline,SF Bay Area,Security,50.0,0.4,2020-06-04,Series C,United States,52.0,125.0,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Builder,Los Angeles,Product,39.0,0.14,2020-06-04,Series A,United States,29.0,278.57142857142856,6,2020,June-2020,2020Q2,34.0522342,-118.2436849
+Kitty Hawk,SF Bay Area,Aerospace,70.0,0.7,2020-06-03,Unknown,United States,1.0,100.0,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+SpotHero,Chicago,Transportation,40.0,0.21,2020-06-03,Series D,United States,117.0,190.47619047619048,6,2020,June-2020,2020Q2,41.8781136,-87.6297982
+Credit Sesame,SF Bay Area,Finance,22.0,0.14,2020-06-03,Series F,United States,120.0,157.14285714285714,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Rivian,Detroit,Transportation,40.0,0.02,2020-06-02,Private Equity,United States,3100.0,2000.0,6,2020,June-2020,2020Q2,42.331427,-83.0457538
+Fundbox,SF Bay Area,Finance,14.0,0.15,2020-06-02,Series C,United States,453.0,93.33333333333334,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+Descartes Labs,Santa Fe,Data,12.0,0.16,2020-06-02,Series B,United States,58.0,75.0,6,2020,June-2020,2020Q2,35.6869752,-105.937799
+MakerBot,New York City,Consumer,12.0,,2020-06-02,Acquired,United States,10.0,,6,2020,June-2020,2020Q2,40.7127753,-74.0059728
+Stitch Fix,SF Bay Area,Retail,1400.0,0.18,2020-06-01,IPO,United States,79.0,7777.777777777778,6,2020,June-2020,2020Q2,37.8271784,-122.2913078
+CrowdStreet,Portland,Real Estate,24.0,0.22,2020-06-01,Series C,United States,24.0,109.0909090909091,6,2020,June-2020,2020Q2,45.515232,-122.6783853
+Brex,SF Bay Area,Finance,62.0,0.15,2020-05-29,Series C,United States,732.0,413.33333333333337,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Loftium,Seattle,Real Estate,32.0,0.6,2020-05-29,Series A,United States,17.0,53.333333333333336,5,2020,May-2020,2020Q2,47.6062095,-122.3320708
+TrueCar,Los Angeles,Transportation,219.0,0.3,2020-05-28,IPO,United States,340.0,730.0,5,2020,May-2020,2020Q2,34.0522342,-118.2436849
+StubHub,SF Bay Area,Consumer,200.0,,2020-05-28,Acquired,United States,19.0,,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+The Sill,New York City,Retail,20.0,0.25,2020-05-28,Series A,United States,7.0,80.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Instructure,Salt Lake City,Education,150.0,0.12,2020-05-27,Acquired,United States,89.0,1250.0,5,2020,May-2020,2020Q2,40.7607793,-111.8910474
+Bluprint,Denver,Education,137.0,1.0,2020-05-26,Acquired,United States,108.0,137.0,5,2020,May-2020,2020Q2,39.7392358,-104.990251
+Acorns,Portland,Finance,50.0,,2020-05-26,Unknown,United States,207.0,,5,2020,May-2020,2020Q2,45.515232,-122.6783853
+Cvent,Washington D.C.,Marketing,400.0,0.1,2020-05-21,Acquired,United States,146.0,4000.0,5,2020,May-2020,2020Q2,38.9071923,-77.0368707
+Glitch,New York City,Product,18.0,0.36,2020-05-21,Series A,United States,30.0,50.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Samsara,SF Bay Area,Logistics,300.0,0.18,2020-05-20,Series F,United States,530.0,1666.6666666666667,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Stay Alfred,Spokane,Travel,221.0,1.0,2020-05-20,Series B,United States,62.0,221.0,5,2020,May-2020,2020Q2,47.6587802,-117.4260466
+SoFi,SF Bay Area,Finance,112.0,0.07,2020-05-20,Private Equity,United States,2500.0,1599.9999999999998,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Intercom,SF Bay Area,Support,39.0,0.06,2020-05-20,Series D,United States,240.0,650.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Uber,SF Bay Area,Transportation,3000.0,0.13,2020-05-18,IPO,United States,24700.0,23076.923076923074,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Rubrik,SF Bay Area,Infrastructure,57.0,,2020-05-18,Series E,United States,553.0,,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Intapp,SF Bay Area,Legal,45.0,0.05,2020-05-18,Private Equity,United States,,900.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Datera,SF Bay Area,Infrastructure,,0.1,2020-05-18,Series C,United States,63.0,,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Lattice,SF Bay Area,HR,16.0,0.1,2020-05-15,Series C,United States,49.0,160.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Masse,New York City,Retail,,1.0,2020-05-15,Seed,United States,3.0,,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Cruise,SF Bay Area,Transportation,150.0,0.08,2020-05-14,Acquired,United States,5300.0,1875.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Quartz,New York City,Media,80.0,0.4,2020-05-14,Acquired,United States,,200.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Integral Ad Science,New York City,Marketing,70.0,0.1,2020-05-14,Acquired,United States,116.0,700.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Ridecell,SF Bay Area,Transportation,35.0,0.15,2020-05-14,Series B,United States,73.0,233.33333333333334,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Veem,SF Bay Area,Finance,30.0,,2020-05-14,Unknown,United States,69.0,,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Deliv,SF Bay Area,Retail,669.0,1.0,2020-05-13,Series C,United States,80.0,669.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Kickstarter,New York City,Finance,25.0,0.18,2020-05-13,Unknown,United States,10.0,138.88888888888889,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Mode Analytics,SF Bay Area,Data,17.0,,2020-05-13,Series C,United States,46.0,,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Zymergen ,SF Bay Area,Other,,0.1,2020-05-13,Series C,United States,574.0,,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Zeus Living,SF Bay Area,Real Estate,73.0,0.5,2020-05-12,Series B,United States,79.0,146.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Mixpanel,SF Bay Area,Data,65.0,0.19,2020-05-12,Series B,United States,77.0,342.10526315789474,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Hireology,Chicago,Recruiting,36.0,0.17,2020-05-12,Series D,United States,52.0,211.76470588235293,5,2020,May-2020,2020Q2,41.8781136,-87.6297982
+Cadre,New York City,Real Estate,28.0,0.25,2020-05-11,Series C,United States,133.0,112.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+N26,New York City,Finance,9.0,0.01,2020-05-08,Series D,United States,782.0,900.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Jump,New York City,Transportation,500.0,1.0,2020-05-07,Acquired,United States,11.0,500.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Glassdoor,SF Bay Area,Recruiting,300.0,0.3,2020-05-07,Acquired,United States,204.0,1000.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Flywire,Boston,Finance,60.0,0.12,2020-05-07,Series E,United States,263.0,500.0,5,2020,May-2020,2020Q2,42.3600825,-71.0588801
+SalesLoft,Atlanta,Sales,55.0,,2020-05-07,Series D,United States,145.0,,5,2020,May-2020,2020Q2,33.748752,-84.38768449999999
+Tally,SF Bay Area,Finance,28.0,0.23,2020-05-07,Series C,United States,92.0,121.73913043478261,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Uber,SF Bay Area,Transportation,3700.0,0.14,2020-05-06,IPO,United States,24700.0,26428.571428571428,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Validity,Boston,Data,130.0,0.33,2020-05-06,Private Equity,United States,,393.93939393939394,5,2020,May-2020,2020Q2,42.3600825,-71.0588801
+Flatiron School,New York City,Education,100.0,,2020-05-06,Acquired,United States,15.0,,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Rubicon Project,Los Angeles,Marketing,50.0,0.08,2020-05-06,IPO,United States,60.0,625.0,5,2020,May-2020,2020Q2,34.0522342,-118.2436849
+Segment,SF Bay Area,Data,50.0,0.1,2020-05-06,Series D,United States,283.0,500.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Airbnb,SF Bay Area,Travel,1900.0,0.25,2020-05-05,Private Equity,United States,5400.0,7600.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Juul,SF Bay Area,Consumer,900.0,0.3,2020-05-05,Unknown,United States,1500.0,3000.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Andela,New York City,Recruiting,135.0,0.1,2020-05-05,Series D,United States,181.0,1350.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Stack Overflow,New York City,Recruiting,40.0,0.15,2020-05-05,Series D,United States,68.0,266.6666666666667,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Workable,Boston,Recruiting,25.0,0.1,2020-05-05,Series C,United States,84.0,250.0,5,2020,May-2020,2020Q2,42.3600825,-71.0588801
+Castlight Health,SF Bay Area,Healthcare,,0.13,2020-05-04,IPO,United States,184.0,,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+LiveTiles,New York City,Other,50.0,,2020-05-03,IPO,United States,46.0,,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Namely,New York City,HR,110.0,0.4,2020-05-01,Series E,United States,217.0,275.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Sandbox VR,SF Bay Area,Consumer,80.0,0.8,2020-05-01,Series A,United States,82.0,100.0,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Virtudent,Boston,Healthcare,70.0,,2020-05-01,Series A,United States,10.0,,5,2020,May-2020,2020Q2,42.3600825,-71.0588801
+TheSkimm,New York City,Media,26.0,0.2,2020-05-01,Series C,United States,28.0,130.0,5,2020,May-2020,2020Q2,40.7127753,-74.0059728
+Automatic,SF Bay Area,Transportation,,1.0,2020-05-01,Acquired,United States,24.0,,5,2020,May-2020,2020Q2,37.8271784,-122.2913078
+Bullhorn,Boston,Sales,100.0,,2020-04-30,Acquired,United States,32.0,,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Care.com,Boston,Consumer,81.0,,2020-04-30,Acquired,United States,156.0,,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Fandom,SF Bay Area,Media,,0.14,2020-04-30,Series E,United States,145.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+PicoBrew,Seattle,Food,,1.0,2020-04-30,Series A,United States,15.0,,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Lyft,SF Bay Area,Transportation,982.0,0.17,2020-04-29,IPO,United States,4900.0,5776.470588235294,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+WeWork,SF Bay Area,Real Estate,300.0,0.6,2020-04-29,Series H,United States,2250.0,500.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Kayak / OpenTable,Stamford,Travel,160.0,0.08,2020-04-29,Acquired,United States,229.0,2000.0,4,2020,April-2020,2020Q2,41.0534302,-73.5387341
+Kitopi,New York City,Food,124.0,0.13333333333333333,2020-04-29,Series B,United States,89.0,930.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Lime,SF Bay Area,Transportation,80.0,0.13,2020-04-29,Series D,United States,765.0,615.3846153846154,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Transfix,New York City,Logistics,24.0,0.1,2020-04-29,Series D,United States,128.0,240.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+TripAdvisor,Boston,Travel,900.0,0.25,2020-04-28,IPO,United States,3.0,3600.0,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+App Annie,SF Bay Area,Data,80.0,0.18,2020-04-28,Unknown,United States,156.0,444.44444444444446,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+OpenX,Los Angeles,Marketing,35.0,0.15,2020-04-28,Unknown,United States,70.0,233.33333333333334,4,2020,April-2020,2020Q2,34.0522342,-118.2436849
+PayJoy,SF Bay Area,Finance,27.0,0.25,2020-04-28,Series B,United States,71.0,108.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Shipsi,Los Angeles,Retail,20.0,0.5,2020-04-28,Seed,United States,2.0,40.0,4,2020,April-2020,2020Q2,34.0522342,-118.2436849
+Migo,SF Bay Area,Finance,,0.25,2020-04-28,Series B,United States,37.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Automation Anywhere,SF Bay Area,Other,260.0,0.1,2020-04-27,Series B,United States,840.0,2600.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+JetClosing,Seattle,Real Estate,20.0,0.2,2020-04-27,Series A,United States,24.0,100.0,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Qwick,Phoenix,Recruiting,,0.7000000000000001,2020-04-27,Seed,United States,4.0,,4,2020,April-2020,2020Q2,33.4483771,-112.0740373
+Submittable,Missoula,Other,30.0,0.2,2020-04-25,Series B,United States,17.0,150.0,4,2020,April-2020,2020Q2,46.8721284,-113.9940314
+Divergent 3D,Los Angeles,Transportation,57.0,0.36,2020-04-24,Series B,United States,88.0,158.33333333333334,4,2020,April-2020,2020Q2,34.0522342,-118.2436849
+UPshow,Chicago,Marketing,19.0,0.3,2020-04-24,Series A,United States,7.0,63.333333333333336,4,2020,April-2020,2020Q2,41.8781136,-87.6297982
+Lighter Capital,Seattle,Finance,18.0,0.22,2020-04-24,Series B,United States,15.0,81.81818181818181,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Welkin Health,SF Bay Area,Healthcare,10.0,0.33,2020-04-24,Series B,United States,29.0,30.3030303030303,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Jiobit,Chicago,Consumer,6.0,0.21,2020-04-24,Unknown,United States,12.0,28.571428571428573,4,2020,April-2020,2020Q2,41.8781136,-87.6297982
+StockX,Detroit,Retail,100.0,0.12,2020-04-23,Series C,United States,160.0,833.3333333333334,4,2020,April-2020,2020Q2,42.331427,-83.0457538
+Zenefits,SF Bay Area,HR,87.0,0.15,2020-04-23,Series C,United States,583.0,580.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Sisense,New York City,Data,80.0,0.09,2020-04-23,Series F,United States,274.0,888.8888888888889,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Oscar Health,New York City,Healthcare,70.0,0.05,2020-04-23,Unknown,United States,1300.0,1400.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Simon Data,New York City,Marketing,6.0,,2020-04-23,Series C,United States,68.0,,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Convoy,Seattle,Logistics,12.857142857142856,0.01,2020-04-23,Series D,United States,665.0,1285.7142857142856,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Magic Leap,Miami,Consumer,1000.0,0.5,2020-04-22,Series E,United States,2600.0,2000.0,4,2020,April-2020,2020Q2,25.7616798,-80.1917902
+When I Work,Minneapolis,HR,55.0,0.35,2020-04-22,Series B,United States,24.0,157.14285714285714,4,2020,April-2020,2020Q2,44.977753,-93.2650108
+Ike,SF Bay Area,Transportation,10.0,0.14,2020-04-22,Series A,United States,52.0,71.42857142857142,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Lending Club,SF Bay Area,Finance,460.0,0.3,2020-04-21,IPO,United States,392.0,1533.3333333333335,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Houzz,SF Bay Area,Consumer,155.0,0.1,2020-04-21,Series E,United States,613.0,1550.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Casper,New York City,Retail,78.0,0.21,2020-04-21,IPO,United States,339.0,371.42857142857144,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+RealSelf,Seattle,Healthcare,40.0,0.13,2020-04-21,Series B,United States,42.0,307.6923076923077,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Patreon,SF Bay Area,Media,30.0,0.13,2020-04-21,Series D,United States,165.0,230.76923076923077,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Lambda School,SF Bay Area,Education,19.0,,2020-04-21,Series B,United States,48.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Politico / Protocol,Washington D.C.,Media,13.0,,2020-04-21,Unknown,United States,,,4,2020,April-2020,2020Q2,38.9071923,-77.0368707
+ConsenSys,New York City,Crypto,91.0,0.14,2020-04-20,Unknown,United States,10.0,649.9999999999999,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+GumGum,Los Angeles,Marketing,90.0,0.25,2020-04-20,Series D,United States,58.0,360.0,4,2020,April-2020,2020Q2,34.0522342,-118.2436849
+Zum,SF Bay Area,Transportation,28.0,,2020-04-20,Series C,United States,71.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Komodo Health,SF Bay Area,Healthcare,23.0,0.09,2020-04-20,Series C,United States,50.0,255.55555555555557,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Forward,SF Bay Area,Healthcare,10.0,0.03,2020-04-20,Series C,United States,100.0,333.33333333333337,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Hipcamp,SF Bay Area,Travel,,0.6,2020-04-20,Series B,United States,40.5,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Motif Investing,SF Bay Area,Finance,,1.0,2020-04-18,Series E,United States,126.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Greenhouse Software,New York City,Recruiting,120.0,0.28,2020-04-17,Series D,United States,110.0,428.57142857142856,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Sweetgreen,Los Angeles,Food,35.0,0.1,2020-04-17,Series I,United States,478.0,350.0,4,2020,April-2020,2020Q2,34.0522342,-118.2436849
+People.ai,SF Bay Area,Marketing,30.0,0.18,2020-04-17,Series C,United States,100.0,166.66666666666669,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Tor,Boston,Security,13.0,0.37,2020-04-17,Unknown,United States,1.0,35.13513513513514,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+BitGo,SF Bay Area,Crypto,,0.12,2020-04-17,Series B,United States,69.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Dispatch,Boston,Other,,0.38,2020-04-17,Series A,United States,18.0,,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+CarGurus,Boston,Transportation,130.0,0.13,2020-04-16,IPO,United States,1.0,1000.0,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Purse,SF Bay Area,Crypto,,1.0,2020-04-16,Seed,United States,1.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Opendoor,SF Bay Area,Real Estate,600.0,0.35,2020-04-15,Series E,United States,1500.0,1714.2857142857144,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+GoPro,SF Bay Area,Consumer,200.0,0.2,2020-04-15,IPO,United States,288.0,1000.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Zume,SF Bay Area,Food,200.0,0.67,2020-04-15,Unknown,United States,423.0,298.5074626865671,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Carta,SF Bay Area,Finance,161.0,0.16,2020-04-15,Series E,United States,447.0,1006.25,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Parsable,SF Bay Area,HR,40.0,0.25,2020-04-15,Series C,United States,72.0,160.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Kodiak Robotics,SF Bay Area,Transportation,15.0,0.2,2020-04-15,Series A,United States,40.0,75.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Trove Recommerce,SF Bay Area,Retail,13.0,,2020-04-15,Series C,United States,34.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Dude Solutions,Raleigh,Other,,0.2,2020-04-15,Acquired,United States,100.0,,4,2020,April-2020,2020Q2,35.7795897,-78.6381787
+The RealReal,SF Bay Area,Retail,235.0,0.1,2020-04-14,IPO,United States,358.0,2350.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Envoy,SF Bay Area,HR,58.0,0.3,2020-04-14,Series B,United States,59.0,193.33333333333334,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+VSCO,SF Bay Area,Consumer,45.0,0.35,2020-04-14,Series B,United States,90.0,128.57142857142858,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Skillz,SF Bay Area,Consumer,21.0,0.03,2020-04-14,Series D,United States,132.0,700.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+DataStax,SF Bay Area,Data,15.0,,2020-04-14,Series E,United States,190.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Groupon,Chicago,Retail,2800.0,0.44,2020-04-13,IPO,United States,1400.0,6363.636363636364,4,2020,April-2020,2020Q2,41.8781136,-87.6297982
+Zoox,SF Bay Area,Transportation,100.0,0.1,2020-04-13,Series B,United States,955.0,1000.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+EasyPost,SF Bay Area,Logistics,50.0,0.25,2020-04-13,Series A,United States,12.0,200.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Meow Wolf,Santa Fe,Media,201.0,,2020-04-10,Unknown,United States,185.0,,4,2020,April-2020,2020Q2,35.6869752,-105.937799
+Frontdesk,Milwaukee,Travel,35.0,0.16,2020-04-10,Unknown,United States,3.0,218.75,4,2020,April-2020,2020Q2,43.0389025,-87.9064736
+Built In,Chicago,Recruiting,28.0,0.14,2020-04-10,Series C,United States,29.0,200.0,4,2020,April-2020,2020Q2,41.8781136,-87.6297982
+NuoDB,Boston,Data,20.0,0.29,2020-04-10,Unknown,United States,85.0,68.96551724137932,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Rhumbix,SF Bay Area,Construction,16.0,0.27,2020-04-10,Series B,United States,35.0,59.25925925925925,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Atsu,Seattle,Infrastructure,6.0,1.0,2020-04-10,Unknown,United States,1.0,6.0,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Geekwire,Seattle,Media,5.0,0.31,2020-04-10,Unknown,United States,,16.129032258064516,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Yelp,SF Bay Area,Consumer,1000.0,0.17,2020-04-09,IPO,United States,56.0,5882.35294117647,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Monzo,Las Vegas,Finance,165.0,0.11,2020-04-09,Series F,United States,324.0,1500.0,4,2020,April-2020,2020Q2,36.171563,-115.1391009
+OneTrust,Atlanta,Legal,150.0,0.1,2020-04-09,Series B,United States,410.0,1500.0,4,2020,April-2020,2020Q2,33.748752,-84.38768449999999
+Domo,Salt Lake City,Data,90.0,0.1,2020-04-09,IPO,United States,689.0,900.0,4,2020,April-2020,2020Q2,40.7607793,-111.8910474
+Matterport,SF Bay Area,Data,90.0,0.34,2020-04-09,Series D,United States,114.0,264.70588235294116,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Clinc,Ann Arbor,Support,40.0,0.32,2020-04-09,Series B,United States,59.0,125.0,4,2020,April-2020,2020Q2,42.2808256,-83.7430378
+Code42,Minneapolis,Data,25.0,0.05,2020-04-09,Series B,United States,137.5,500.0,4,2020,April-2020,2020Q2,44.977753,-93.2650108
+Eventbrite,SF Bay Area,Consumer,500.0,0.45,2020-04-08,IPO,United States,332.0,1111.111111111111,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Scoop,SF Bay Area,Transportation,92.0,0.33,2020-04-08,Series C,United States,95.0,278.78787878787875,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Unison,SF Bay Area,Finance,89.0,0.45,2020-04-08,Series B,United States,40.0,197.77777777777777,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Lever,SF Bay Area,Recruiting,86.0,0.4,2020-04-08,Series C,United States,72.0,215.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Button,New York City,Marketing,48.0,0.35,2020-04-08,Series C,United States,64.0,137.14285714285714,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Eden / Managed By Q,New York City,Real Estate,40.0,0.4,2020-04-08,Series B,United States,40.0,100.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Quantcast,SF Bay Area,Marketing,30.0,0.05,2020-04-08,Series C,United States,65.0,600.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+BVAccel,San Diego,Marketing,25.0,0.25,2020-04-08,Unknown,United States,,100.0,4,2020,April-2020,2020Q2,32.715738,-117.1610838
+VideoAmp,Los Angeles,Marketing,21.0,0.1,2020-04-08,Series C,United States,106.0,210.0,4,2020,April-2020,2020Q2,34.0522342,-118.2436849
+Spyce,Boston,Food,4.0,0.12,2020-04-08,Series A,United States,26.0,33.333333333333336,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Zola,New York City,Retail,,0.2,2020-04-08,Series D,United States,140.0,,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Toast,Boston,Food,1300.0,0.5,2020-04-07,Series F,United States,902.0,2600.0,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+ezCater,Boston,Food,400.0,0.44,2020-04-07,Series D,United States,319.0,909.0909090909091,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Sage Therapeutics,Boston,Healthcare,340.0,0.53,2020-04-07,IPO,United States,438.0,641.5094339622641,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Redfin,Seattle,Real Estate,236.0,0.07,2020-04-07,IPO,United States,319.0,3371.428571428571,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Branch Metrics,SF Bay Area,Marketing,100.0,0.2,2020-04-07,Series E,United States,367.0,500.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Newfront Insurance,SF Bay Area,Finance,94.0,,2020-04-07,Unknown,United States,,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Ibotta,Denver,Retail,87.0,0.15,2020-04-07,Series D,United States,85.0,580.0,4,2020,April-2020,2020Q2,39.7392358,-104.990251
+Virta Health,SF Bay Area,Healthcare,65.0,,2020-04-07,Series C,United States,175.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Away,New York City,Retail,60.0,0.1,2020-04-07,Series D,United States,181.0,600.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+MediaMath,New York City,Marketing,53.0,0.08,2020-04-07,Private Equity,United States,607.0,662.5,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Group Nine Media,New York City,Media,50.0,0.07,2020-04-07,Unknown,United States,190.0,714.2857142857142,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Payfactors,Boston,HR,46.0,,2020-04-07,Unknown,United States,,,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Nav,Salt Lake City,Finance,30.0,,2020-04-07,Series C,United States,99.0,,4,2020,April-2020,2020Q2,40.7607793,-111.8910474
+Metromile,SF Bay Area,Finance,100.0,0.33,2020-04-06,Series E,United States,293.0,303.030303030303,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+BounceX,New York City,Marketing,77.0,0.2,2020-04-06,Series B,United States,75.0,385.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Wordstream,Boston,Marketing,26.0,0.1,2020-04-06,Acquired,United States,28.0,260.0,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Cogito,Boston,Support,24.0,0.14,2020-04-06,Series C,United States,92.0,171.42857142857142,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+PerkSpot,Chicago,HR,10.0,0.1,2020-04-06,Private Equity,United States,50.0,100.0,4,2020,April-2020,2020Q2,41.8781136,-87.6297982
+Astra,SF Bay Area,Aerospace,40.0,0.25,2020-04-05,Unknown,United States,100.0,160.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Sojern,SF Bay Area,Marketing,300.0,0.5,2020-04-03,Series D,United States,162.0,600.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Minted,SF Bay Area,Retail,147.0,0.37,2020-04-03,Series E,United States,297.0,397.2972972972973,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Velodyne Lidar,SF Bay Area,Transportation,140.0,,2020-04-03,Unknown,United States,225.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Zoox,SF Bay Area,Transportation,120.0,0.12,2020-04-03,Series B,United States,955.0,1000.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Arrive Logistics,Austin,Logistics,75.0,0.07,2020-04-03,Series B,United States,35.0,1071.4285714285713,4,2020,April-2020,2020Q2,30.267153,-97.7430608
+Salsify,Boston,Retail,60.0,0.13,2020-04-03,Series D,United States,97.0,461.53846153846155,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Jetty,New York City,Finance,35.0,0.4,2020-04-03,Series B,United States,40.0,87.5,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+D2iQ,SF Bay Area,Infrastructure,34.0,0.13,2020-04-03,Series D,United States,247.0,261.53846153846155,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Bustle Digital Group,New York City,Media,24.0,0.08,2020-04-03,Series E,United States,80.0,300.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Bustle Digital Group,New York City,Media,19.0,0.06333333333333334,2020-04-03,Series E,United States,80.0,300.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Anagram,Los Angeles,Healthcare,17.0,,2020-04-03,Series A,United States,14.0,,4,2020,April-2020,2020Q2,34.0522342,-118.2436849
+G/O Media Group,New York City,Media,14.0,0.05,2020-04-03,Unknown,United States,,280.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+DSCO,Salt Lake City,Retail,12.0,,2020-04-03,Series A,United States,4.0,,4,2020,April-2020,2020Q2,40.7607793,-111.8910474
+Tripbam,Dallas,Travel,10.0,0.25,2020-04-03,Unknown,United States,,40.0,4,2020,April-2020,2020Q2,32.7766642,-96.79698789999999
+Avantage Entertainment,Minneapolis,Media,5.0,0.2,2020-04-03,Unknown,United States,,25.0,4,2020,April-2020,2020Q2,44.977753,-93.2650108
+The Wing,New York City,Real Estate,,0.5,2020-04-03,Series C,United States,117.0,,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+MindBody,San Luis Obispo,Fitness,700.0,0.35,2020-04-02,IPO,United States,114.0,2000.0000000000002,4,2020,April-2020,2020Q2,35.2827524,-120.6596156
+Katerra,SF Bay Area,Construction,240.0,0.03,2020-04-02,Series D,United States,1200.0,8000.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+ClassPass,New York City,Fitness,154.0,0.22,2020-04-02,Series E,United States,549.0,700.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Industrious,New York City,Real Estate,90.0,0.2,2020-04-02,Series D,United States,222.0,450.0,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+1stdibs,New York City,Retail,70.0,0.17,2020-04-02,Series D,United States,253.0,411.7647058823529,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+ThirdLove,SF Bay Area,Retail,65.0,0.3,2020-04-02,Series B,United States,68.0,216.66666666666669,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Latch,New York City,Security,60.0,0.14116578349735048,2020-04-02,Series B,United States,152.0,425.032175032175,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+The Predictive Index,Boston,HR,59.0,0.25,2020-04-02,Acquired,United States,65.0,236.0,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Jobcase,Boston,Recruiting,39.0,0.2,2020-04-02,Private Equity,United States,118.0,195.0,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Copper,SF Bay Area,Marketing,35.0,,2020-04-02,Series C,United States,102.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Dynamic Signal,SF Bay Area,HR,35.0,0.19,2020-04-02,Series E,United States,114.0,184.21052631578948,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+FiscalNote,Washington D.C.,Media,30.0,,2020-04-02,Series D,United States,50.0,,4,2020,April-2020,2020Q2,38.9071923,-77.0368707
+Sauce Labs,SF Bay Area,Infrastructure,30.0,0.15,2020-04-02,Unknown,United States,151.0,200.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Humu,SF Bay Area,HR,26.0,,2020-04-02,Series B,United States,40.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+TripleLift,New York City,Marketing,23.0,0.07,2020-04-02,Series B,United States,16.0,328.57142857142856,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+Coding Dojo,Seattle,Education,7.0,0.07,2020-04-02,Unknown,United States,2.0,99.99999999999999,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Synergysuite,Salt Lake City,Food,5.0,0.07,2020-04-02,Series A,United States,6.0,71.42857142857142,4,2020,April-2020,2020Q2,40.7607793,-111.8910474
+Atlanta Tech Village,Atlanta,Real Estate,,0.5,2020-04-02,Unknown,United States,,,4,2020,April-2020,2020Q2,33.748752,-84.38768449999999
+Booksy,SF Bay Area,Consumer,200.0,,2020-04-01,Series B,United States,48.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+PatientPop,Los Angeles,Healthcare,100.0,0.2,2020-04-01,Series B,United States,75.0,500.0,4,2020,April-2020,2020Q2,34.0522342,-118.2436849
+Showpad,Chicago,Marketing,52.0,0.12,2020-04-01,Series D,United States,159.0,433.33333333333337,4,2020,April-2020,2020Q2,41.8781136,-87.6297982
+Earnin,SF Bay Area,Finance,50.0,0.2,2020-04-01,Series C,United States,190.0,250.0,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Wonolo,SF Bay Area,Recruiting,46.0,0.13,2020-04-01,Series C,United States,52.0,353.8461538461538,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Moovel,Portland,Transportation,28.0,0.37,2020-04-01,Unknown,United States,,75.67567567567568,4,2020,April-2020,2020Q2,45.515232,-122.6783853
+Crayon,Boston,Marketing,20.0,0.2,2020-04-01,Series A,United States,16.0,100.0,4,2020,April-2020,2020Q2,42.3600825,-71.0588801
+Pana,Denver,Travel,18.0,,2020-04-01,Series A,United States,11.0,,4,2020,April-2020,2020Q2,39.7392358,-104.990251
+Usermind,Seattle,Marketing,15.0,0.25,2020-04-01,Series C,United States,46.0,60.0,4,2020,April-2020,2020Q2,47.6062095,-122.3320708
+Incredible Health,SF Bay Area,Healthcare,9.0,0.4,2020-04-01,Series A,United States,15.0,22.5,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Le Tote,SF Bay Area,Retail,,0.5,2020-04-01,Series C,United States,62.0,,4,2020,April-2020,2020Q2,37.8271784,-122.2913078
+Pebblepost,New York City,Marketing,,0.6,2020-04-01,Series C,United States,81.0,,4,2020,April-2020,2020Q2,40.7127753,-74.0059728
+WhyHotel,Washington D.C.,Travel,,0.5,2020-04-01,Series B,United States,33.0,,4,2020,April-2020,2020Q2,38.9071923,-77.0368707
+KeepTruckin,SF Bay Area,Logistics,349.0,0.18,2020-03-31,Series D,United States,227.0,1938.888888888889,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+AdRoll,Salt Lake City,Marketing,210.0,0.3,2020-03-31,Series C,United States,89.0,700.0,3,2020,March-2020,2020Q1,40.7607793,-111.8910474
+Rover,Seattle,Consumer,194.0,0.41,2020-03-31,Series G,United States,310.0,473.1707317073171,3,2020,March-2020,2020Q1,47.6062095,-122.3320708
+Turo,SF Bay Area,Transportation,108.0,0.3,2020-03-31,Series E,United States,467.0,360.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+uShip,Austin,Logistics,65.0,0.37,2020-03-31,Series D,United States,69.0,175.67567567567568,3,2020,March-2020,2020Q1,30.267153,-97.7430608
+SkySlope,Sacramento,Real Estate,50.0,0.25,2020-03-31,Acquired,United States,,200.0,3,2020,March-2020,2020Q1,38.5815719,-121.4943996
+Siteimprove,Minneapolis,Marketing,40.0,,2020-03-31,Unknown,United States,55.0,,3,2020,March-2020,2020Q1,44.977753,-93.2650108
+AngelList,SF Bay Area,Recruiting,20.0,,2020-03-31,Series B,United States,26.0,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Zenoti,Seattle,Fitness,17.0,0.04,2020-03-31,Series C,United States,91.0,425.0,3,2020,March-2020,2020Q1,47.6062095,-122.3320708
+DialSource,Sacramento,Marketing,5.0,0.14,2020-03-31,Series B,United States,26.0,35.71428571428571,3,2020,March-2020,2020Q1,38.5815719,-121.4943996
+Domio,New York City,Travel,,0.3,2020-03-31,Series B,United States,116.0,,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Kazoo,Austin,HR,,0.35,2020-03-31,Series A,United States,8.0,,3,2020,March-2020,2020Q1,30.267153,-97.7430608
+Thumbtack,SF Bay Area,Consumer,250.0,0.3,2020-03-30,Series F,United States,423.0,833.3333333333334,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+RigUp,Austin,Energy,120.0,0.25,2020-03-30,Series D,United States,423.0,480.0,3,2020,March-2020,2020Q1,30.267153,-97.7430608
+PeerStreet,Los Angeles,Finance,51.0,0.3,2020-03-30,Series C,United States,110.0,170.0,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+Maven,Seattle,Media,31.0,0.09,2020-03-30,IPO,United States,77.0,344.44444444444446,3,2020,March-2020,2020Q1,47.6062095,-122.3320708
+Blume Global,SF Bay Area,Logistics,30.0,0.1,2020-03-30,Unknown,United States,,300.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Catalant,Boston,Other,30.0,,2020-03-30,Series E,United States,110.0,,3,2020,March-2020,2020Q1,42.3600825,-71.0588801
+Loftsmart,New York City,Real Estate,25.0,0.75,2020-03-30,Series A,United States,18.0,33.333333333333336,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Caliva,SF Bay Area,Retail,20.0,,2020-03-30,Series A,United States,75.0,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Iris Nova,New York City,Food,9.0,0.5,2020-03-30,Seed,United States,15.0,18.0,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+ZipRecruiter,Los Angeles,Recruiting,400.0,0.39,2020-03-29,Series B,United States,219.0,1025.6410256410256,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+Amplero,Seattle,Marketing,17.0,1.0,2020-03-29,Series B,United States,25.0,17.0,3,2020,March-2020,2020Q1,47.6062095,-122.3320708
+Polarr,SF Bay Area,Consumer,10.0,,2020-03-29,Series A,United States,13.0,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+WeWork,New York City,Real Estate,250.0,0.5,2020-03-28,Series H,United States,2250.0,500.0,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Bird,Los Angeles,Transportation,406.0,0.3,2020-03-27,Series D,United States,623.0,1353.3333333333335,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+Everlane,SF Bay Area,Retail,227.0,,2020-03-27,Unknown,United States,18.0,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+DataRobot,Boston,Data,200.0,0.2,2020-03-27,Series E,United States,430.0,999.9999999999999,3,2020,March-2020,2020Q1,42.3600825,-71.0588801
+Restaurant365,Los Angeles,Food,175.0,,2020-03-27,Series C,United States,127.0,,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+Blueground,New York City,Real Estate,130.0,0.25,2020-03-27,Series B,United States,77.0,520.0,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Knotel,New York City,Real Estate,127.0,0.3,2020-03-27,Series C,United States,560.0,423.33333333333337,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Getaround,SF Bay Area,Transportation,100.0,0.25,2020-03-27,Series D,United States,403.0,400.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Zipcar,Boston,Transportation,100.0,0.2,2020-03-27,Acquired,United States,107.0,500.0,3,2020,March-2020,2020Q1,42.3600825,-71.0588801
+DISCO,Austin,Legal,75.0,,2020-03-27,Series E,United States,133.0,,3,2020,March-2020,2020Q1,30.267153,-97.7430608
+Raken,San Diego,Construction,60.0,,2020-03-27,Series A,United States,12.0,,3,2020,March-2020,2020Q1,32.715738,-117.1610838
+Oh My Green,SF Bay Area,Food,40.0,,2020-03-27,Seed,United States,20.0,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Bevi,Boston,Food,30.0,0.2,2020-03-27,Series C,United States,60.0,150.0,3,2020,March-2020,2020Q1,42.3600825,-71.0588801
+Textio,Seattle,Recruiting,30.0,0.2,2020-03-27,Unknown,United States,41.0,150.0,3,2020,March-2020,2020Q1,47.6062095,-122.3320708
+Opal,Portland,Marketing,20.0,,2020-03-27,Series B,United States,25.0,,3,2020,March-2020,2020Q1,45.515232,-122.6783853
+ThirdLove,New York City,Retail,10.0,0.04615384615384615,2020-03-27,Series B,United States,68.0,216.66666666666669,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+B8ta,SF Bay Area,Retail,250.0,0.5,2020-03-26,Series C,United States,88.0,500.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Puppet,Portland,Infrastructure,50.0,0.1,2020-03-26,Series F,United States,149.0,500.0,3,2020,March-2020,2020Q1,45.515232,-122.6783853
+Passport,Charlotte,Transportation,44.0,,2020-03-26,Series D,United States,123.0,,3,2020,March-2020,2020Q1,35.2270869,-80.8431267
+Peerspace,SF Bay Area,Real Estate,41.0,0.75,2020-03-26,Series B,United States,34.0,54.666666666666664,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+GoSpotCheck,Denver,Retail,23.0,0.2,2020-03-26,Series B,United States,47.0,115.0,3,2020,March-2020,2020Q1,39.7392358,-104.990251
+Consider.co,SF Bay Area,Other,13.0,1.0,2020-03-26,Seed,United States,5.0,13.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Nativo,Los Angeles,Marketing,,0.4,2020-03-26,Series B,United States,35.0,,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+TripActions,SF Bay Area,Travel,300.0,0.25,2020-03-25,Series D,United States,981.0,1200.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Lyric,SF Bay Area,Real Estate,100.0,,2020-03-25,Series B,United States,179.1,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+O'Reilly Media,SF Bay Area,Media,75.0,0.15,2020-03-25,Unknown,United States,,500.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+WanderJaunt,SF Bay Area,Travel,56.0,0.23,2020-03-25,Series B,United States,26.0,243.47826086956522,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+OutboundEngine,Austin,Marketing,52.0,0.28,2020-03-25,Series C,United States,48.0,185.7142857142857,3,2020,March-2020,2020Q1,30.267153,-97.7430608
+Wonderschool,SF Bay Area,Education,50.0,0.75,2020-03-25,Series A,United States,24.0,66.66666666666667,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Overtime,New York City,Media,30.0,0.23,2020-03-25,Series B,United States,35.0,130.43478260869566,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Jama,Portland,Product,12.0,0.05,2020-03-25,Unknown,United States,233.0,240.0,3,2020,March-2020,2020Q1,45.515232,-122.6783853
+Element Analytics,SF Bay Area,Data,10.0,,2020-03-25,Series A,United States,22.0,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Clutter,Los Angeles,Consumer,,0.3,2020-03-25,Series D,United States,296.0,,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+Divvy Homes,SF Bay Area,Real Estate,26.66666666666667,0.08,2020-03-25,Series B,United States,180.0,333.33333333333337,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Sonder,SF Bay Area,Travel,400.0,0.33,2020-03-24,Series D,United States,359.0,1212.121212121212,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Takl,Nashville,Consumer,130.0,,2020-03-24,Unknown,United States,,,3,2020,March-2020,2020Q1,36.1626638,-86.7816016
+Foodsby,Minneapolis,Food,87.0,0.67,2020-03-24,Series B,United States,20.0,129.8507462686567,3,2020,March-2020,2020Q1,44.977753,-93.2650108
+Zeus Living,SF Bay Area,Real Estate,80.0,0.3,2020-03-24,Series B,United States,79.0,266.6666666666667,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+TravelBank,SF Bay Area,Travel,20.0,,2020-03-24,Series B,United States,35.0,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Peerfit,Tampa Bay,HR,,0.4,2020-03-24,Unknown,United States,47.0,,3,2020,March-2020,2020Q1,27.763383,-82.5436722
+Compass,New York City,Real Estate,375.0,0.15,2020-03-23,Series G,United States,1600.0,2500.0,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Convene,New York City,Real Estate,150.0,0.18,2020-03-23,Series D,United States,280.0,833.3333333333334,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Leafly,Seattle,Retail,91.0,0.5,2020-03-23,Acquired,United States,2.0,182.0,3,2020,March-2020,2020Q1,47.6062095,-122.3320708
+The Guild,Austin,Travel,38.0,0.22,2020-03-23,Series B,United States,36.0,172.72727272727272,3,2020,March-2020,2020Q1,30.267153,-97.7430608
+Drip,Salt Lake City,Marketing,20.0,,2020-03-23,Acquired,United States,0.0,,3,2020,March-2020,2020Q1,40.7607793,-111.8910474
+GrayMeta,Los Angeles,Data,20.0,0.4,2020-03-23,Unknown,United States,7.0,50.0,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+Triplebyte,SF Bay Area,Recruiting,15.0,0.17,2020-03-23,Series B,United States,48.0,88.23529411764706,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Ladder Life,SF Bay Area,Finance,13.0,0.25,2020-03-23,Series C,United States,94.0,52.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Cabin,SF Bay Area,Travel,,0.2,2020-03-23,Seed,United States,3.0,,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Eight Sleep,New York City,Retail,,0.2,2020-03-23,Series C,United States,70.0,,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Flywheel Sports,New York City,Fitness,784.0,0.98,2020-03-20,Acquired,United States,120.0,800.0,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Peek,Salt Lake City,Travel,45.0,,2020-03-20,Series B,United States,39.0,,3,2020,March-2020,2020Q1,40.7607793,-111.8910474
+Yonder,Austin,Media,18.0,,2020-03-20,Series A,United States,16.0,,3,2020,March-2020,2020Q1,30.267153,-97.7430608
+Service,Los Angeles,Travel,,1.0,2020-03-20,Seed,United States,5.0,,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+Ejento,SF Bay Area,Recruiting,84.0,1.0,2020-03-19,Unknown,United States,,84.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Remote Year,Chicago,Travel,50.0,0.5,2020-03-19,Series B,United States,17.0,100.0,3,2020,March-2020,2020Q1,41.8781136,-87.6297982
+Lola,Boston,Travel,34.0,,2020-03-19,Series C,United States,81.0,,3,2020,March-2020,2020Q1,42.3600825,-71.0588801
+Popin,New York City,Fitness,,1.0,2020-03-19,Unknown,United States,13.0,,3,2020,March-2020,2020Q1,40.7127753,-74.0059728
+Flytedesk,Boulder,Marketing,4.0,0.2,2020-03-18,Seed,United States,4.0,20.0,3,2020,March-2020,2020Q1,40.0149856,-105.2705456
+Inspirato,Denver,Travel,130.0,0.22,2020-03-16,Series C,United States,79.0,590.9090909090909,3,2020,March-2020,2020Q1,39.7392358,-104.990251
+Help.com,Austin,Support,16.0,1.0,2020-03-16,Seed,United States,6.0,16.0,3,2020,March-2020,2020Q1,30.267153,-97.7430608
+Service,Los Angeles,Travel,,1.0,2020-03-16,Seed,United States,5.1,,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+HopSkipDrive,Los Angeles,Transportation,8.0,0.1,2020-03-13,Unknown,United States,45.0,80.0,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+Panda Squad,SF Bay Area,Consumer,6.0,0.75,2020-03-13,Seed,United States,1.0,8.0,3,2020,March-2020,2020Q1,37.8271784,-122.2913078
+Tamara Mellon,Los Angeles,Retail,20.0,0.4,2020-03-12,Series C,United States,90.0,50.0,3,2020,March-2020,2020Q1,34.0522342,-118.2436849
+EasyPost,Salt Lake City,Logistics,75.0,0.375,2020-03-11,Series A,United States,12.0,200.0,3,2020,March-2020,2020Q1,40.7607793,-111.8910474
